@@ -1,0 +1,749 @@
+<?xml version="1.0" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Style id="Style_H636">
+      <IconStyle>
+        <color>ff9999ff</color>
+        <scale>1.0</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_L636">
+      <IconStyle>
+        <color>ffff9999</color>
+        <scale>1.0</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Folder>
+      <name>H636</name>
+      <Placemark>
+        <styleUrl>#Style_H636</styleUrl>
+        <name>IED Jose Acevedo Y G贸mez</name>
+        <description>Orden: HHH001, Cenefas: 232A13, Tipo: S, M骴ulo: A, Direcci髇: TV 4 Este - DG 28 Bis B Sur, Localidad: San Crist贸bal, Panel: TV 4 Este - DG 28 Bis B Sur, Audio: Transversal 4E Diagonal 28 Bis Be Sur, Zona: L</description>
+        <Point>
+          <coordinates>-74.08360553,4.562630702,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H636</styleUrl>
+        <name>San Blas II Sector</name>
+        <description>Orden: HHH002, Cenefas: 421A13, Tipo: S, M骴ulo: A, Direcci髇: TV 4A E - DG 27A Sur, Localidad: San Crist贸bal, Panel: TV 4A E - DG 27A Sur, Audio: Transversal Cuarta A Este Diagonal 27 A Sur, Zona: L</description>
+        <Point>
+          <coordinates>-74.08382632,4.564223288,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H636</styleUrl>
+        <name>Br. San Blas II Sector</name>
+        <description>Orden: HHH003, Cenefas: 236A13, Tipo: S, M骴ulo: A, Direcci髇: TV 5A Este - CL 22A Sur, Localidad: San Crist贸bal, Panel: TV 5A Este - CL 22A Sur, Audio: Transversal Quinta A Este Calle 22 A Sur, Zona: L</description>
+        <Point>
+          <coordinates>-74.08333073,4.566012288,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H636</styleUrl>
+        <name>Barrio San Blas</name>
+        <description>Orden: HHH004, Cenefas: 430A13, Tipo: S, M骴ulo: A, Direcci髇: CL 20 Sur - KR 3 D E, Localidad: San Crist贸bal, Panel: CL 20 Sur - KR 3 D E, Audio: Calle 20 Sur Carrera Tercera D Este, Zona: L</description>
+        <Point>
+          <coordinates>-74.08422711,4.56838181,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H636</styleUrl>
+        <name>Alcald铆a Local de San Crist贸bal</name>
+        <description>Orden: HHH005, Cenefas: 106A13, Tipo: M, M骴ulo: A, Direcci髇: AV. 1 de Mayo - KR 1 Este, Localidad: San Crist贸bal, Panel: AV. 1 de Mayo - KR 1 Este, Audio: (en blanco), Zona: L</description>
+        <Point>
+          <coordinates>-74.087307,4.569906,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H636</styleUrl>
+        <name>Avenida 1 de Mayo</name>
+        <description>Orden: HHH006, Cenefas: 001A13, Tipo: S, M骴ulo: A, Direcci髇: AV. 1 de Mayo - KR 2, Localidad: San Crist贸bal, Panel: AV. 1 de Mayo - KR 2, Audio: Avenida Primero de Mayo Carrera Segunda, Zona: L</description>
+        <Point>
+          <coordinates>-74.08946486,4.571172127,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H636</styleUrl>
+        <name>Carrera  5A</name>
+        <description>Orden: HHH007, Cenefas: 103A13, Tipo: S, M骴ulo: A, Direcci髇: AV. 1 de Mayo - KR 5A, Localidad: San Crist贸bal, Panel: AV. 1 de Mayo - KR 5A, Audio: Avenida Primero de Mayo Carrera Quinta A, Zona: L</description>
+        <Point>
+          <coordinates>-74.09077749,4.57201789,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H636</styleUrl>
+        <name>Br. Sociego</name>
+        <description>Orden: HHH008, Cenefas: 101A13, Tipo: M, M骴ulo: A, Direcci髇: AV. 1 de Mayo - KR 7B, Localidad: San Crist贸bal, Panel: AV. 1 de Mayo - KR 7B, Audio: Avenida Primero de Mayo Carrera S茅ptima Be, Zona: L</description>
+        <Point>
+          <coordinates>-74.092511,4.573872,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H636</styleUrl>
+        <name>Hsp. San Crist贸bal</name>
+        <description>Orden: HHH009, Cenefas: 099A13, Tipo: M, M骴ulo: A, Direcci髇: AV. 1 de Mayo - KR 9A, Localidad: San Crist贸bal, Panel: AV. 1 de Mayo - KR 9A, Audio: Avenida Primero de Mayo Carrera Novena A, Zona: L</description>
+        <Point>
+          <coordinates>-74.09406346,4.575452191,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H636</styleUrl>
+        <name>Br. Ciudad Jard铆n Sur</name>
+        <description>Orden: HHH010, Cenefas: 085A12, Tipo: M, M骴ulo: A, Direcci髇: AV. 1 de Mayo - KR 10B, Localidad: Antonio Nari帽o, Panel: AV. 1 de Mayo - KR 10B, Audio: Avenida Primero de Mayo Carrera 10 Be, Zona: L</description>
+        <Point>
+          <coordinates>-74.09607885,4.577073367,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H636</styleUrl>
+        <name>Br. Ciudad Jard铆n Sur</name>
+        <description>Orden: HHH011, Cenefas: 451A12, Tipo: S, M骴ulo: A, Direcci髇: AK 10 - AV. 1 de Mayo, Localidad: Antonio Nari帽o, Panel: AK 10 - AV. 1 de Mayo, Audio: Avenida Carrera D茅cima Avenida Primero de Mayo, Zona: L</description>
+        <Point>
+          <coordinates>-74.09444143,4.576244449,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H636</styleUrl>
+        <name>Br. Sociego Sur</name>
+        <description>Orden: HHH012, Cenefas: 359A12, Tipo: S, M骴ulo: A, Direcci髇: AK 10 - CL 22 Sur, Localidad: Rafael Uribe, Panel: AK 10 - CL 22 Sur, Audio: Avenida Carrera D茅cima Calle 22 Sur, Zona: L</description>
+        <Point>
+          <coordinates>-74.09599325,4.57447075,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H636</styleUrl>
+        <name>Estaci贸n Country Sur</name>
+        <description>Orden: HHH013, Cenefas: 360A12, Tipo: S, M骴ulo: A, Direcci髇: AK 10 - CL 27A Sur, Localidad: Rafael Uribe, Panel: AK 10 - CL 27A Sur, Audio: Avenida Carrera D茅cima Calle 27 A Sur, Zona: L</description>
+        <Point>
+          <coordinates>-74.09879284,4.571487574,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H636</styleUrl>
+        <name>Br. Country Sur</name>
+        <description>Orden: HHH014, Cenefas: 065A12, Tipo: S, M骴ulo: A, Direcci髇: AK 10 - CL 31 Sur, Localidad: Rafael Uribe, Panel: AK 10 - CL 31 Sur, Audio: Avenida Carrera D茅cima Calle 31 Sur, Zona: L</description>
+        <Point>
+          <coordinates>-74.10067932,4.569242143,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H636</styleUrl>
+        <name>IED Enrique Olaya Herrera</name>
+        <description>Orden: HHH015, Cenefas: 072A12, Tipo: S, M骴ulo: A, Direcci髇: AK 10 - CL 34 Sur, Localidad: Rafael Uribe, Panel: AK 10 - CL 34 Sur, Audio: Avenida Carrera D茅cima Calle 34 Sur, Zona: L</description>
+        <Point>
+          <coordinates>-74.10277234,4.566925619,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H636</styleUrl>
+        <name>Br. San Luis</name>
+        <description>Orden: HHH016, Cenefas: 068A13, Tipo: S, M骴ulo: A, Direcci髇: DG 36B Sur - KR 10A, Localidad: Rafael Uribe, Panel: DG 36B Sur - KR 10A, Audio: Diagonal 36 Be Sur Carrera 10 A, Zona: L</description>
+        <Point>
+          <coordinates>-74.103882,4.56565,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H636</styleUrl>
+        <name>CAI Lomas</name>
+        <description>Orden: HHH017, Cenefas: 067A12, Tipo: S, M骴ulo: A, Direcci髇: DG 38E Sur - TV 11A, Localidad: Rafael Uribe, Panel: DG 38E Sur - TV 11A, Audio: Diagonal 38E Sur Transversal 11 A, Zona: H</description>
+        <Point>
+          <coordinates>-74.10804477,4.564726937,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H636</styleUrl>
+        <name>CED Misael Pastrana Borrero</name>
+        <description>Orden: HHH018, Cenefas: 298A12, Tipo: S, M骴ulo: A, Direcci髇: CL 43A Sur - KR 11, Localidad: Rafael Uribe, Panel: CL 43A Sur - KR 11, Audio: Calle 43 A Sur Carrera 11, Zona: H</description>
+        <Point>
+          <coordinates>-74.10880553,4.563750856,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H636</styleUrl>
+        <name> La Resurrecci贸n</name>
+        <description>Orden: HHH019, Cenefas: 288A12, Tipo: S, M骴ulo: A, Direcci髇: CL 43A Sur - KR 12, Localidad: Rafael Uribe, Panel: CL 43A Sur - KR 12, Audio: Calle 43 A Sur Carrera 12, Zona: H</description>
+        <Point>
+          <coordinates>-74.11092294,4.564103963,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H636</styleUrl>
+        <name> El Triunfo</name>
+        <description>Orden: HHH020, Cenefas: 391A12, Tipo: S, M骴ulo: A, Direcci髇: DG 43 Sur - KR 12A Bis A, Localidad: Rafael Uribe, Panel: DG 43 Sur - KR 12A Bis A, Audio: Diagonal 43 Sur Carrera 12 A Bis A, Zona: H</description>
+        <Point>
+          <coordinates>-74.11167325,4.565488292,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H636</styleUrl>
+        <name> La Resurrecci贸n</name>
+        <description>Orden: HHH021, Cenefas: 289A12, Tipo: S, M骴ulo: A, Direcci髇: CL 43 Sur - KR 12B, Localidad: Rafael Uribe, Panel: CL 43 Sur - KR 12B, Audio: Calle 43 Sur Carrera 12 Be, Zona: H</description>
+        <Point>
+          <coordinates>-74.1137554,4.566637784,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H636</styleUrl>
+        <name> San Jorge Sur</name>
+        <description>Orden: HHH022, Cenefas: 400A12, Tipo: S, M骴ulo: A, Direcci髇: CL 43 Sur - TV 12F Bis, Localidad: Rafael Uribe, Panel: CL 43 Sur - TV 12F Bis, Audio: Calle 43 Sur Transversal 12 F Bis, Zona: H</description>
+        <Point>
+          <coordinates>-74.11554687,4.56779766,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H636</styleUrl>
+        <name>Br. San Jorge Sur</name>
+        <description>Orden: HHH023, Cenefas: 307A12, Tipo: S, M骴ulo: A, Direcci髇: CL 43 Sur - TV 14, Localidad: Rafael Uribe, Panel: CL 43 Sur - TV 14, Audio: Calle 43 Sur Transversal 14, Zona: H</description>
+        <Point>
+          <coordinates>-74.117089,4.56908,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H636</styleUrl>
+        <name>Br. San Jorge Sur</name>
+        <description>Orden: HHH024, Cenefas: 141A12, Tipo: S, M骴ulo: A, Direcci髇: CL 43 Sur - TV 15A, Localidad: Rafael Uribe, Panel: CL 43 Sur - TV 15A, Audio: Calle 43 Sur Transversal 15 A, Zona: H</description>
+        <Point>
+          <coordinates>-74.118645,4.570281,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H636</styleUrl>
+        <name>Br. San Jorge Sur</name>
+        <description>Orden: HHH025, Cenefas: 140A12, Tipo: S, M骴ulo: A, Direcci髇: DG 45B Sur - TV 16B, Localidad: Rafael Uribe, Panel: DG 45B Sur - TV 16B, Audio: Diagonal 45 Be Sur Transversal 16 Be, Zona: H</description>
+        <Point>
+          <coordinates>-74.121101,4.571023,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H636</styleUrl>
+        <name>Br. San Jorge Sur</name>
+        <description>Orden: HHH026, Cenefas: 136A12, Tipo: S, M骴ulo: A, Direcci髇: DG 45B Sur - TV 18-20, Localidad: Rafael Uribe, Panel: DG 45B Sur - TV 18-20, Audio: Diagonal 45 Be Sur Transversal 18, Zona: H</description>
+        <Point>
+          <coordinates>-74.12348349,4.571229439,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H636</styleUrl>
+        <name>Funeraria Claret</name>
+        <description>Orden: HHH027, Cenefas: 001A12, Tipo: S, M骴ulo: A, Direcci髇: AV. Caracas - CL 45 Sur, Localidad: Rafael Uribe, Panel: AV. Caracas - CL 45 Sur, Audio: Avenida Caracas Calle 45 Sur, Zona: H</description>
+        <Point>
+          <coordinates>-74.12368693,4.573561365,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H636</styleUrl>
+        <name>Br. Santa Luc铆a</name>
+        <description>Orden: HHH028, Cenefas: 371A11, Tipo: S, M骴ulo: A, Direcci髇: DG 44 Sur - KR 22A, Localidad: Rafael Uribe, Panel: DG 44 Sur - KR 22A, Audio: Diagonal 44 Sur Carrera 22 A, Zona: H</description>
+        <Point>
+          <coordinates>-74.12631343,4.575850511,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H636</styleUrl>
+        <name>Tunal Sector I</name>
+        <description>Orden: HHH029, Cenefas: 367A11, Tipo: S, M骴ulo: A, Direcci髇: DG 44 Sur - TV 23A, Localidad: Tunjuelito, Panel: DG 44 Sur - TV 23A, Audio: Diagonal 44 Sur Transversal 23 A, Zona: H</description>
+        <Point>
+          <coordinates>-74.12815646,4.576088288,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H636</styleUrl>
+        <name>Br. Tunal Oriental</name>
+        <description>Orden: HHH030, Cenefas: 075A11, Tipo: M, M骴ulo: A, Direcci髇: CL 47B Sur - TV 23A, Localidad: Tunjuelito, Panel: CL 47B Sur - TV 23A, Audio: Calle 47 Be Sur Transversal 23 A, Zona: H</description>
+        <Point>
+          <coordinates>-74.12900875,4.577411896,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H636</styleUrl>
+        <name>IED Rafael Uribe</name>
+        <description>Orden: HHH031, Cenefas: 060A11, Tipo: M, M骴ulo: A, Direcci髇: AK 24 - CL 46 Sur, Localidad: Tunjuelito, Panel: AK 24 - CL 46 Sur, Audio: Avenida Carrera 24 Calle 46 Sur, Zona: H</description>
+        <Point>
+          <coordinates>-74.12807345,4.578504966,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H636</styleUrl>
+        <name>C.C. La Estrella</name>
+        <description>Orden: HHH032, Cenefas: 060A10, Tipo: S, M骴ulo: A, Direcci髇: AC 44 Sur - KR 25, Localidad: Rafael Uribe, Panel: AC 44 Sur - KR 25, Audio: Avenida Calle 44 Sur Carrera 25, Zona: H</description>
+        <Point>
+          <coordinates>-74.126261,4.581447,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H636</styleUrl>
+        <name>Pquia. Inmaculado Coraz贸n de Mar铆a</name>
+        <description>Orden: HHH033, Cenefas: 058A10, Tipo: S, M骴ulo: A, Direcci髇: AC 44 Sur - KR 28, Localidad: Rafael Uribe, Panel: AC 44 Sur - KR 28, Audio: Avenida Calle 44 Sur Carrera 28, Zona: H</description>
+        <Point>
+          <coordinates>-74.12757627,4.584525084,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H636</styleUrl>
+        <name>Br. Villa Mayor</name>
+        <description>Orden: HHH034, Cenefas: 261A10, Tipo: S, M骴ulo: A, Direcci髇: KR 50 - DG 42 Sur, Localidad: Rafael Uribe, Panel: KR 50 - DG 42 Sur, Audio: Carrera 50 Diagonal 42 Sur, Zona: H</description>
+        <Point>
+          <coordinates>-74.12831795,4.587794143,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H636</styleUrl>
+        <name>Br. Villa Mayor</name>
+        <description>Orden: HHH035, Cenefas: 397A10, Tipo: S, M骴ulo: A, Direcci髇: KR 50 - DG 40B Sur, Localidad: Rafael Uribe, Panel: KR 50 - DG 40B Sur, Audio: Carrera 50 Diagonal 40 Be Sur, Zona: H</description>
+        <Point>
+          <coordinates>-74.12801815,4.590759578,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H636</styleUrl>
+        <name>Br. Arboleda del Rey</name>
+        <description>Orden: HHH036, Cenefas: 398A10, Tipo: S, M骴ulo: A, Direcci髇: KR 50 - Auto Sur, Localidad: Antonio Nari帽o, Panel: KR 50 - Auto Sur, Audio: Carrera 50 Autopista Sur, Zona: H</description>
+        <Point>
+          <coordinates>-74.12676047,4.592710626,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H636</styleUrl>
+        <name>Estaci贸n General Santander</name>
+        <description>Orden: HHH037, Cenefas: 060A09, Tipo: S, M骴ulo: A, Direcci髇: Auto Sur - KR 50 Bis A, Localidad: Puente Aranda, Panel: Auto Sur - KR 50 Bis A, Audio: Avenida N Q S Carrera 50 Bis A, Zona: G</description>
+        <Point>
+          <coordinates>-74.13006343,4.593815496,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H636</styleUrl>
+        <name>Estaci贸n Alquer铆a</name>
+        <description>Orden: HHH038, Cenefas: 059A09, Tipo: S, M骴ulo: A, Direcci髇: Auto Sur - KR 51F, Localidad: Puente Aranda, Panel: Auto Sur - KR 51F, Audio: Avenida N Q S Carrera 51 F, Zona: G</description>
+        <Point>
+          <coordinates>-74.13432089,4.594483031,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H636</styleUrl>
+        <name>Br. Venecia</name>
+        <description>Orden: HHH039, Cenefas: 394A10, Tipo: S, M骴ulo: A, Direcci髇: KR 50 - DG 45 Sur, Localidad: Tunjuelito, Panel: KR 50 - DG 45 Sur, Audio: Carrera 50 Diagonal 45 Sur, Zona: H</description>
+        <Point>
+          <coordinates>-74.13677136,4.593745575,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H636</styleUrl>
+        <name>Br. Venecia</name>
+        <description>Orden: HHH040, Cenefas: 395A10, Tipo: S, M骴ulo: A, Direcci髇: DG 47A Sur - KR 51, Localidad: Tunjuelito, Panel: DG 47A Sur - KR 51, Audio: Diagonal 47 A Sur Carrera 51, Zona: H</description>
+        <Point>
+          <coordinates>-74.13881578,4.59261035,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H636</styleUrl>
+        <name>Br. Venecia</name>
+        <description>Orden: HHH041, Cenefas: 251A10, Tipo: S, M骴ulo: A, Direcci髇: DG 49A Sur - KR 53, Localidad: Tunjuelito, Panel: DG 49A Sur - KR 53, Audio: Diagonal 49 A Sur Carrera 53, Zona: H</description>
+        <Point>
+          <coordinates>-74.140789,4.593007861,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H636</styleUrl>
+        <name>Br. Venecia Occidental</name>
+        <description>Orden: HHH042, Cenefas: 167A10, Tipo: S, M骴ulo: A, Direcci髇: AK 54 - CL 49 Sur, Localidad: Tunjuelito, Panel: AK 54 - CL 49 Sur, Audio: Avenida Carrera 54 Calle 49 Sur, Zona: H</description>
+        <Point>
+          <coordinates>-74.14189563,4.592021429,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H636</styleUrl>
+        <name>Br. Nuevo Muz煤 I Sector</name>
+        <description>Orden: HHH043, Cenefas: 139A10, Tipo: S, M骴ulo: A, Direcci髇: DG 51 Sur - KR 54, Localidad: Tunjuelito, Panel: DG 51 Sur - KR 54, Audio: Diagonal 51 Sur Carrera 54, Zona: H</description>
+        <Point>
+          <coordinates>-74.14268735,4.590500752,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H636</styleUrl>
+        <name>IED Venecia</name>
+        <description>Orden: HHH044, Cenefas: 267A10, Tipo: S, M骴ulo: A, Direcci髇: DG 51 Sur - AV. Boyac谩, Localidad: Tunjuelito, Panel: DG 51 Sur - AV. Boyac谩, Audio: Diagonal 51 Sur Avenida Boyac谩, Zona: H</description>
+        <Point>
+          <coordinates>-74.14454359,4.590913349,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H636</styleUrl>
+        <name>Pq. Lagunetas</name>
+        <description>Orden: HHH045, Cenefas: 001B10, Tipo: M, M骴ulo: B, Direcci髇: AV. Boyac谩 - DG 51 Sur, Localidad: Tunjuelito, Panel: AV. Boyac谩 - DG 51 Sur, Audio: Avenida Boyac谩 Diagonal 51 Sur, Zona: H</description>
+        <Point>
+          <coordinates>-74.145546,4.590447,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H636</styleUrl>
+        <name>Br. Venecia</name>
+        <description>Orden: HHH046, Cenefas: 245A10, Tipo: S, M骴ulo: A, Direcci髇: DG 51 Sur - KR 56B BIS, Localidad: Tunjuelito, Panel: DG 51 Sur - KR 56B BIS, Audio: Diagonal 51 Sur Carrera 56 Be Bis, Zona: H</description>
+        <Point>
+          <coordinates>-74.1466801,4.589421325,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H636</styleUrl>
+        <name>Br. Nuevo Muz煤</name>
+        <description>Orden: HHH047, Cenefas: 240A10, Tipo: S, M骴ulo: A, Direcci髇: DG 51A Sur - KR 59A, Localidad: Tunjuelito, Panel: DG 51A Sur - KR 59A, Audio: Diagonal 51 A Sur Carrera 59 A, Zona: H</description>
+        <Point>
+          <coordinates>-74.14892681,4.588445151,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H636</styleUrl>
+        <name>Pq.Rinc贸n de Nuevo Muz煤</name>
+        <description>Orden: HHH048, Cenefas: 456A10, Tipo: S, M骴ulo: A, Direcci髇: KR 61G - DG 52BSur, Localidad: Tunjuelito, Panel: KR 61G - DG 52BSur, Audio: Carrera 61 G Diagonal 52 Be Sur, Zona: H</description>
+        <Point>
+          <coordinates>-74.149774,4.585553,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H636</styleUrl>
+        <name>Nuevo Muz煤</name>
+        <description>Orden: HHH049, Cenefas: 469A10, Tipo: S, M骴ulo: A, Direcci髇: DG 53 Sur -KR 61D, Localidad: Tunjuelito, Panel: DG 53 Sur -KR 61D, Audio: Diagonal 53 Sur Carrera 61 D, Zona: H</description>
+        <Point>
+          <coordinates>-74.148641,4.584741,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H636</styleUrl>
+        <name>Polideportivo Nuevo Muz煤</name>
+        <description>Orden: HHH050, Cenefas: 457A10, Tipo: S, M骴ulo: A, Direcci髇: KR 61B - DG 52BSur, Localidad: Tunjuelito, Panel: KR 61B - DG 52BSur, Audio: Carrera 61 Be Diagonal 52 Be Sur, Zona: H</description>
+        <Point>
+          <coordinates>-74.147559,4.585752,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>L636</name>
+      <Placemark>
+        <styleUrl>#Style_L636</styleUrl>
+        <name>Br. Nuevo Muz煤</name>
+        <description>Orden: LLL001, Cenefas: 458A10, Tipo: S, M骴ulo: A, Direcci髇: KR 61B - DG 51BSur, Localidad: Tunjuelito, Panel: KR 61B - DG 51BSur, Audio: Carrera 61 Be Diagonal 51 Be Sur, Zona: H</description>
+        <Point>
+          <coordinates>-74.148144,4.588182,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L636</styleUrl>
+        <name>Br. Nuevo Muz煤 II</name>
+        <description>Orden: LLL002, Cenefas: 244A10, Tipo: S, M骴ulo: A, Direcci髇: DG 51A Sur - KR 56A, Localidad: Tunjuelito, Panel: DG 51A Sur - KR 56A, Audio: Diagonal 51 A Sur Carrera 56 A, Zona: H</description>
+        <Point>
+          <coordinates>-74.14609295,4.589559133,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L636</styleUrl>
+        <name>Br. Nuevo Muz煤 I Sector</name>
+        <description>Orden: LLL003, Cenefas: 243A10, Tipo: S, M骴ulo: A, Direcci髇: DG 52 Sur - KR 54B, Localidad: Tunjuelito, Panel: DG 52 Sur - KR 54B, Audio: Diagonal 52 Sur Carrera 54 Be, Zona: H</description>
+        <Point>
+          <coordinates>-74.14403844,4.58830961,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L636</styleUrl>
+        <name>Liceo Santa Bernardita</name>
+        <description>Orden: LLL004, Cenefas: 249A10, Tipo: S, M骴ulo: A, Direcci髇: AK 54 - CL 51 Sur, Localidad: Tunjuelito, Panel: AK 54 - CL 51 Sur, Audio: Avenida Carrera 54 Calle 51 Sur, Zona: H</description>
+        <Point>
+          <coordinates>-74.141955,4.590579,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L636</styleUrl>
+        <name>Br. La Laguna</name>
+        <description>Orden: LLL005, Cenefas: 268A10, Tipo: S, M骴ulo: A, Direcci髇: AK 54 - CL 49 Sur, Localidad: Tunjuelito, Panel: AK 54 - CL 49 Sur, Audio: Avenida Carrera 54 Calle 49 Sur, Zona: H</description>
+        <Point>
+          <coordinates>-74.14172417,4.592042167,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L636</styleUrl>
+        <name>Sede Comunal Barrio Venecia</name>
+        <description>Orden: LLL006, Cenefas: 259A10, Tipo: S, M骴ulo: A, Direcci髇: DG 49 Sur - KR 52, Localidad: Tunjuelito, Panel: DG 49 Sur - KR 52, Audio: Diagonal 49 Sur Carrera 52, Zona: H</description>
+        <Point>
+          <coordinates>-74.14014618,4.591867505,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L636</styleUrl>
+        <name>Br. Venecia</name>
+        <description>Orden: LLL007, Cenefas: 031A10, Tipo: M, M骴ulo: A, Direcci髇: KR 53 - DG 45 Sur, Localidad: Tunjuelito, Panel: KR 53 - DG 45 Sur, Audio: Carrera 53 Diagonal 45 Sur, Zona: H</description>
+        <Point>
+          <coordinates>-74.13788171,4.594029004,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L636</styleUrl>
+        <name>Estaci贸n Alquer铆a</name>
+        <description>Orden: LLL008, Cenefas: 046A10, Tipo: S, M骴ulo: A, Direcci髇: Auto Sur - KR 51, Localidad: Tunjuelito, Panel: Auto Sur - KR 51, Audio: Autopista Sur Carrera 51, Zona: H</description>
+        <Point>
+          <coordinates>-74.13472976,4.59413332,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L636</styleUrl>
+        <name>Estaci贸n General Santander</name>
+        <description>Orden: LLL009, Cenefas: 318A10, Tipo: S, M骴ulo: A, Direcci髇: DG 39A Sur - TV 42, Localidad: Tunjuelito, Panel: DG 39A Sur - TV 42, Audio: Diagonal 39 A Sur Transversal 42, Zona: H</description>
+        <Point>
+          <coordinates>-74.12849616,4.592651178,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L636</styleUrl>
+        <name>Br. Villa Mayor</name>
+        <description>Orden: LLL010, Cenefas: 055A10, Tipo: S, M骴ulo: A, Direcci髇: DG 39A Sur - TV 40, Localidad: Rafael Uribe, Panel: DG 39A Sur - TV 40, Audio: Diagonal 39 A Sur Transversal 40, Zona: H</description>
+        <Point>
+          <coordinates>-74.12627519,4.591109135,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L636</styleUrl>
+        <name>C.C. Centro Mayor</name>
+        <description>Orden: LLL011, Cenefas: 317A10, Tipo: S, M骴ulo: A, Direcci髇: DG 39A Sur - TV 38A, Localidad: Rafael Uribe, Panel: DG 39A Sur - TV 38A, Audio: Diagonal 39 A Sur Transversal 38 A, Zona: H</description>
+        <Point>
+          <coordinates>-74.12501265,4.590107593,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L636</styleUrl>
+        <name>Pq. P煤blico Villa Mayor</name>
+        <description>Orden: LLL012, Cenefas: 072A10, Tipo: S, M骴ulo: A, Direcci髇: AV. J. Gait谩n C. - CL 40 Sur, Localidad: Rafael Uribe, Panel: AV. J. Gait谩n C. - CL 40 Sur, Audio: Avenida Jorge Gait谩n Cort茅s Calle 40 Sur, Zona: H</description>
+        <Point>
+          <coordinates>-74.12623396,4.587894979,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L636</styleUrl>
+        <name>Colegio Inmaculado Coraz贸n de Mar铆a</name>
+        <description>Orden: LLL013, Cenefas: 057A10, Tipo: S, M骴ulo: A, Direcci髇: AC 44 Sur - KR 29, Localidad: Rafael Uribe, Panel: AC 44 Sur - KR 29, Audio: Avenida Calle 44 Sur Carrera 29, Zona: H</description>
+        <Point>
+          <coordinates>-74.12794808,4.58501728,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L636</styleUrl>
+        <name>Br. Claret</name>
+        <description>Orden: LLL014, Cenefas: 059A10, Tipo: S, M骴ulo: A, Direcci髇: AC 44 Sur - KR 26, Localidad: Rafael Uribe, Panel: AC 44 Sur - KR 26, Audio: Avenida Calle 44 Sur Carrera 26, Zona: H</description>
+        <Point>
+          <coordinates>-74.12676485,4.582214163,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L636</styleUrl>
+        <name>Br. Santa Luc铆a</name>
+        <description>Orden: LLL015, Cenefas: 061A10, Tipo: S, M骴ulo: A, Direcci髇: AC 44 Sur - KR 24B, Localidad: Rafael Uribe, Panel: AC 44 Sur - KR 24B, Audio: Avenida Calle 44 Sur Carrera 24 Be, Zona: H</description>
+        <Point>
+          <coordinates>-74.12602383,4.580436104,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L636</styleUrl>
+        <name>Br. Tunal Oriental</name>
+        <description>Orden: LLL016, Cenefas: 370A11, Tipo: S, M骴ulo: A, Direcci髇: CL 46 Sur - KR 22, Localidad: Tunjuelito, Panel: CL 46 Sur - KR 22, Audio: Calle 46 Sur Carrera 22, Zona: H</description>
+        <Point>
+          <coordinates>-74.12664625,4.575513554,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L636</styleUrl>
+        <name>Br. Tunal Oriental</name>
+        <description>Orden: LLL017, Cenefas: 369A11, Tipo: S, M骴ulo: A, Direcci髇: CL 46 Sur - KR 21, Localidad: Tunjuelito, Panel: CL 46 Sur - KR 21, Audio: Calle 46 Sur Carrera 21, Zona: H</description>
+        <Point>
+          <coordinates>-74.12612699,4.573748219,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L636</styleUrl>
+        <name>Estaci贸n Santa Luc铆a</name>
+        <description>Orden: LLL018, Cenefas: 375A11, Tipo: S, M骴ulo: A, Direcci髇: CL 46 Sur - KR 19A, Localidad: Rafael Uribe, Panel: CL 46 Sur - KR 19A, Audio: Calle 46 Sur Carrera 19 A, Zona: H</description>
+        <Point>
+          <coordinates>-74.124038,4.569494,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L636</styleUrl>
+        <name>Instituto Ram贸n Brice帽o</name>
+        <description>Orden: LLL019, Cenefas: 137A12, Tipo: S, M骴ulo: A, Direcci髇: DG 46 Sur - KR 16J, Localidad: Rafael Uribe, Panel: DG 46 Sur - KR 16J, Audio: Diagonal 46 Sur Carrera 16 J, Zona: H</description>
+        <Point>
+          <coordinates>-74.122082,4.568557,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L636</styleUrl>
+        <name>Br. Marco Fidel Su谩rez I</name>
+        <description>Orden: LLL020, Cenefas: 135A12, Tipo: M, M骴ulo: A, Direcci髇: DG 46 Sur - KR 16A, Localidad: Rafael Uribe, Panel: DG 46 Sur - KR 16A, Audio: Diagonal 46 Sur Carrera 16 A, Zona: H</description>
+        <Point>
+          <coordinates>-74.119264,4.567938,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L636</styleUrl>
+        <name>Br. Marco Fidel Su谩rez I</name>
+        <description>Orden: LLL021, Cenefas: 283A12, Tipo: S, M骴ulo: A, Direcci髇: DG 46 Sur - TV 13, Localidad: Rafael Uribe, Panel: DG 46 Sur - TV 13, Audio: Diagonal 46 Sur Transversal 14 Bis, Zona: H</description>
+        <Point>
+          <coordinates>-74.11632456,4.567344061,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L636</styleUrl>
+        <name> Carmen del Sol</name>
+        <description>Orden: LLL022, Cenefas: 284A12, Tipo: S, M骴ulo: A, Direcci髇: CL 43 Sur - TV 12B Bis, Localidad: Rafael Uribe, Panel: CL 43 Sur - TV 12B Bis, Audio: Calle 43 Sur Transversal 12 Be Bis, Zona: H</description>
+        <Point>
+          <coordinates>-74.11375987,4.566553832,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L636</styleUrl>
+        <name> El Triunfo</name>
+        <description>Orden: LLL023, Cenefas: 392A12, Tipo: S, M骴ulo: A, Direcci髇: DG 43 Sur - KR 12A Bis, Localidad: Rafael Uribe, Panel: DG 43 Sur - KR 12A Bis, Audio: Diagonal 43 Sur Carrera 12 A Bis, Zona: H</description>
+        <Point>
+          <coordinates>-74.11171207,4.565358037,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L636</styleUrl>
+        <name> Carmen del Sol</name>
+        <description>Orden: LLL024, Cenefas: 287A12, Tipo: S, M骴ulo: A, Direcci髇: CL 43A Sur - TV 12 Bis, Localidad: Rafael Uribe, Panel: CL 43A Sur - TV 12 Bis, Audio: Calle 43 A Sur Transversal 12 Bis, Zona: H</description>
+        <Point>
+          <coordinates>-74.11075344,4.563910798,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L636</styleUrl>
+        <name>AV. Dar铆o Echand铆a</name>
+        <description>Orden: LLL025, Cenefas: 299A12, Tipo: S, M骴ulo: A, Direcci髇: CL 43A Sur - KR 11, Localidad: Rafael Uribe, Panel: CL 43A Sur - KR 11, Audio: Calle 43 A Sur Carrera 11, Zona: H</description>
+        <Point>
+          <coordinates>-74.1088305,4.563675699,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L636</styleUrl>
+        <name>Br. Puerto Rico</name>
+        <description>Orden: LLL026, Cenefas: 066A12, Tipo: S, M骴ulo: A, Direcci髇: DG 38E Sur - TV 11A, Localidad: Rafael Uribe, Panel: DG 38E Sur - TV 11A, Audio: Diagonal 38E Sur Transversal 11 A, Zona: H</description>
+        <Point>
+          <coordinates>-74.10786609,4.564829983,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L636</styleUrl>
+        <name>Br. Barcelona Sur</name>
+        <description>Orden: LLL027, Cenefas: 067A13, Tipo: S, M骴ulo: A, Direcci髇: DG 36B Sur - KR 10A, Localidad: Rafael Uribe, Panel: DG 36B Sur - KR 10A, Audio: Diagonal 36 Be Sur Carrera 10 A, Zona: L</description>
+        <Point>
+          <coordinates>-74.103741,4.56561,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L636</styleUrl>
+        <name>Br. Barcelona Sur</name>
+        <description>Orden: LLL028, Cenefas: 096A13, Tipo: S, M骴ulo: A, Direcci髇: AK 10 - CL 34 Sur, Localidad: San Crist贸bal, Panel: AK 10 - CL 34 Sur, Audio: Avenida Carrera D茅cima Calle 34 Sur, Zona: L</description>
+        <Point>
+          <coordinates>-74.101642,4.567632,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L636</styleUrl>
+        <name>IED Enrique Olaya Herrera</name>
+        <description>Orden: LLL029, Cenefas: 066A13, Tipo: S, M骴ulo: A, Direcci髇: AK 10 - CL 32 Sur, Localidad: San Crist贸bal, Panel: AK 10 - CL 32 Sur, Audio: Avenida Carrera D茅cima Calle 32 Sur, Zona: L</description>
+        <Point>
+          <coordinates>-74.100059,4.569527,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L636</styleUrl>
+        <name>Br. 20 de Julio</name>
+        <description>Orden: LLL030, Cenefas: 021A13, Tipo: S, M骴ulo: A, Direcci髇: AK 10 - CL 27A Sur, Localidad: San Crist贸bal, Panel: AK 10 - CL 27A Sur, Audio: Avenida Carrera D茅cima Calle 27 A Sur, Zona: L</description>
+        <Point>
+          <coordinates>-74.09836611,4.571413057,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L636</styleUrl>
+        <name>Br. 20 de Julio</name>
+        <description>Orden: LLL031, Cenefas: 020A13, Tipo: S, M骴ulo: A, Direcci髇: AK 10 - CL 21A Sur, Localidad: San Crist贸bal, Panel: AK 10 - CL 21A Sur, Audio: Avenida Carrera D茅cima Calle 21 A Sur, Zona: L</description>
+        <Point>
+          <coordinates>-74.09534379,4.574704962,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L636</styleUrl>
+        <name>Hsp. San Crist贸bal</name>
+        <description>Orden: LLL032, Cenefas: 100A13, Tipo: M, M骴ulo: A, Direcci髇: AV. 1 de Mayo - KR 9A, Localidad: San Crist贸bal, Panel: AV. 1 de Mayo - KR 9A, Audio: Avenida Primero de Mayo Carrera Novena A, Zona: L</description>
+        <Point>
+          <coordinates>-74.09373214,4.574755018,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L636</styleUrl>
+        <name>Carrera 6</name>
+        <description>Orden: LLL033, Cenefas: 102A13, Tipo: M, M骴ulo: A, Direcci髇: AV. 1 de Mayo - KR 6, Localidad: San Crist贸bal, Panel: AV. 1 de Mayo - KR 6, Audio: Avenida Primero de Mayo Carrera Sexta, Zona: L</description>
+        <Point>
+          <coordinates>-74.09216531,4.573065895,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L636</styleUrl>
+        <name>Br. Granada Sur</name>
+        <description>Orden: LLL034, Cenefas: 104A13, Tipo: S, M骴ulo: A, Direcci髇: AV. 1 de Mayo - KR 5, Localidad: San Crist贸bal, Panel: AV. 1 de Mayo - KR 5, Audio: Avenida Primero de Mayo Carrera Quinta, Zona: L</description>
+        <Point>
+          <coordinates>-74.09092609,4.571869635,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L636</styleUrl>
+        <name>Carrera 2</name>
+        <description>Orden: LLL035, Cenefas: 002A13, Tipo: S, M骴ulo: A, Direcci髇: AV. 1 de Mayo - KR 2, Localidad: San Crist贸bal, Panel: AV. 1 de Mayo - KR 2, Audio: Avenida Primero de Mayo Carrera Segunda, Zona: L</description>
+        <Point>
+          <coordinates>-74.08891311,4.570600379,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L636</styleUrl>
+        <name>Alcald铆a Local San Crist贸bal</name>
+        <description>Orden: LLL036, Cenefas: 105A13, Tipo: S, M骴ulo: A, Direcci髇: AV. 1 de Mayo - KR 2B Este, Localidad: San Crist贸bal, Panel: AV. 1 de Mayo - KR 2B Este, Audio: Avenida Primero de Mayo Carrera Segunda Be Este, Zona: L</description>
+        <Point>
+          <coordinates>-74.08683376,4.569385899,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L636</styleUrl>
+        <name>Av. La Victoria</name>
+        <description>Orden: LLL037, Cenefas: 006A13, Tipo: S, M骴ulo: A, Direcci髇: KR 3 Este - CL 22 - 61 Sur, Localidad: San Crist贸bal, Panel: KR 3 Este - CL 22 - 61 Sur, Audio: Carrera Tercera Este Calle 20 Sur, Zona: L</description>
+        <Point>
+          <coordinates>-74.085931,4.568563,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L636</styleUrl>
+        <name>Br. San Blas</name>
+        <description>Orden: LLL038, Cenefas: 558A13, Tipo: S, M骴ulo: A, Direcci髇: TV 4 Este - CL 21 A Sur, Localidad: San Crist贸bal, Panel: TV 4 Este - CL 21 A Sur, Audio: Transversal Cuarta Este Calle 21 A Sur, Zona: L</description>
+        <Point>
+          <coordinates>-74.08539176,4.567268926,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L636</styleUrl>
+        <name>Br. San Pedro</name>
+        <description>Orden: LLL039, Cenefas: 233A13, Tipo: S, M骴ulo: A, Direcci髇: TV 4 Este - CL 24 Sur, Localidad: San Crist贸bal, Panel: TV 4 Este - CL 24 Sur, Audio: Transversal Cuarta Este Calle 24 Sur, Zona: L</description>
+        <Point>
+          <coordinates>-74.08460644,4.565306683,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L636</styleUrl>
+        <name>IED Jose Acevedo Y G贸mez</name>
+        <description>Orden: LLL040, Cenefas: 231A13, Tipo: S, M骴ulo: A, Direcci髇: TV 4 Este - DG 28 Sur, Localidad: San Crist贸bal, Panel: TV 4 Este - DG 28 Sur, Audio: Transversal 4E Diagonal 28 Sur, Zona: L</description>
+        <Point>
+          <coordinates>-74.08373125,4.562842018,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

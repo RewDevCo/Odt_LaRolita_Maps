@@ -1,0 +1,273 @@
+<?xml version="1.0" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Style id="Style_T04">
+      <IconStyle>
+        <color>ff9999ff</color>
+        <scale>1.0</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Folder>
+      <name>T04</name>
+      <Placemark>
+        <styleUrl>#Style_T04</styleUrl>
+        <name>Br. Sierra Morena III Sector</name>
+        <description>Orden: HHH043, Cenefas: 326A10, Tipo: S, MÛdulo: A, DirecciÛn: CL 75A Sur - TV 59, Localidad: Ciudad Bol√≠var, Panel: CL 75A Sur - TV 59, Audio: Calle 75 A Sur Transversal 59, Zona: H</description>
+        <Point>
+          <coordinates>-74.1674684,4.574713809,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_T04</styleUrl>
+        <name>Br. Jerusal√©n las Brisas</name>
+        <description>Orden: HHH044, Cenefas: 328A10, Tipo: S, MÛdulo: A, DirecciÛn: TV 50 - CL 75A Sur, Localidad: Ciudad Bol√≠var, Panel: TV 50 - CL 75A Sur, Audio: Transversal 50 Calle 75 A Sur, Zona: H</description>
+        <Point>
+          <coordinates>-74.16696615,4.573144074,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_T04</styleUrl>
+        <name>Br. Galicia</name>
+        <description>Orden: AAA007, Cenefas: 199A10, Tipo: S, MÛdulo:  , DirecciÛn: CL 62D Sur - KR 73G, Localidad: Ciudad Bol√≠var, Panel: CL 62D Sur - KR 73G, Audio: Calle 62 D Sur Carrera 73 G, Zona: H</description>
+        <Point>
+          <coordinates>-74.17134779,4.589629191,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_T04</styleUrl>
+        <name>Br. Potos√≠</name>
+        <description>Orden: DDD005, Cenefas: 166A11, Tipo: S, MÛdulo: A, DirecciÛn: DG 77 Sur - TV 44A, Localidad: Ciudad Bol√≠var, Panel: DG 77 Sur - TV 44A, Audio: Diagonal 77 Sur Transversal 44A, Zona: H</description>
+        <Point>
+          <coordinates>-74.168685,4.570494,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_T04</styleUrl>
+        <name>Br. Jerusal√©n las Brisas</name>
+        <description>Orden: DDD007, Cenefas: 329A10, Tipo: S, MÛdulo: A, DirecciÛn: TV 50 - CL 75A Sur, Localidad: Ciudad Bol√≠var, Panel: TV 50 - CL 75A Sur, Audio: Transversal 50 Calle 75 A Sur, Zona: H</description>
+        <Point>
+          <coordinates>-74.16694413,4.57301726,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_T04</styleUrl>
+        <name>Br. Sierra Morena III Sector</name>
+        <description>Orden: DDD008, Cenefas: 327A10, Tipo: S, MÛdulo: A, DirecciÛn: CL 75A Sur - TV 59, Localidad: Ciudad Bol√≠var, Panel: CL 75A Sur - TV 59, Audio: Calle 75 A Sur Transversal 59, Zona: H</description>
+        <Point>
+          <coordinates>-74.16725643,4.574615125,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_T04</styleUrl>
+        <name>Br. Sierra Morena III Sector</name>
+        <description>Orden: DDD009, Cenefas: 110A10, Tipo: S, MÛdulo: A, DirecciÛn: DG 75 Sur - TV 73B, Localidad: Ciudad Bol√≠var, Panel: DG 75 Sur - TV 73B, Audio: Diagonal 75 Sur Transversal 73 Be, Zona: H</description>
+        <Point>
+          <coordinates>-74.16903162,4.577235885,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_T04</styleUrl>
+        <name>Br. Sierra Morena Tv 73H</name>
+        <description>Orden: DDD010, Cenefas: 111A10, Tipo: S, MÛdulo: A, DirecciÛn: DG 73C Sur - TV 73H, Localidad: Ciudad Bol√≠var, Panel: DG 73C Sur - TV 73H, Audio: Diagonal 73 C Sur Transversal 73 H, Zona: H</description>
+        <Point>
+          <coordinates>-74.16994837,4.579077772,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_T04</styleUrl>
+        <name>Br. Sierra Morena III Sector</name>
+        <description>Orden: DDD011, Cenefas: 301A10, Tipo: S, MÛdulo: A, DirecciÛn: DG 73C Sur - TV 73B, Localidad: Ciudad Bol√≠var, Panel: DG 73C Sur - TV 73B, Audio: Diagonal 73 C Sur Transversal 73 Be, Zona: H</description>
+        <Point>
+          <coordinates>-74.16776094,4.578151715,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_T04</styleUrl>
+        <name>CED. Ciudad Bol√≠var</name>
+        <description>Orden: DDD012, Cenefas: 041A10, Tipo: S, MÛdulo: A, DirecciÛn: TV 60 - DG 70 Sur, Localidad: Ciudad Bol√≠var, Panel: TV 60 - DG 70 Sur, Audio: Transversal 60 Diagonal 70 Sur, Zona: H</description>
+        <Point>
+          <coordinates>-74.16652907,4.578230695,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_T04</styleUrl>
+        <name>Br. Sierra Morena</name>
+        <description>Orden: HHH060, Cenefas: 040A10, Tipo: S, MÛdulo: A, DirecciÛn: TV 60 - DG 72 Sur, Localidad: Ciudad Bol√≠var, Panel: TV 60 - DG 72 Sur, Audio: Transversal 60 Diagonal 72 Sur, Zona: H</description>
+        <Point>
+          <coordinates>-74.16651496,4.578461586,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_T04</styleUrl>
+        <name>Br. Sierra Morena</name>
+        <description>Orden: HHH061, Cenefas: 331A10, Tipo: S, MÛdulo: A, DirecciÛn: DG 73C Sur - TV 73B, Localidad: Ciudad Bol√≠var, Panel: DG 73C Sur - TV 73B, Audio: Diagonal 73 C Sur Transversal 73 Be, Zona: H</description>
+        <Point>
+          <coordinates>-74.16773392,4.578440013,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_T04</styleUrl>
+        <name>Br. Sierra Morena  Tv  73J</name>
+        <description>Orden: HHH062, Cenefas: 112A10, Tipo: S, MÛdulo: A, DirecciÛn: DG 73C Sur - TV 73J, Localidad: Ciudad Bol√≠var, Panel: DG 73C Sur - TV 73J, Audio: Diagonal 73 C Sur Transversal 73 J, Zona: H</description>
+        <Point>
+          <coordinates>-74.1699702,4.579230427,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_T04</styleUrl>
+        <name>Br. Sierra Morena</name>
+        <description>Orden: HHH063, Cenefas: 109A10, Tipo: S, MÛdulo: A, DirecciÛn: DG 75 Sur - TV 73C, Localidad: Ciudad Bol√≠var, Panel: DG 75 Sur - TV 73C, Audio: Diagonal 75 Sur Transversal 73 C, Zona: H</description>
+        <Point>
+          <coordinates>-74.16911563,4.577119935,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_T04</styleUrl>
+        <name>Br. Olarte</name>
+        <description>Orden: CBO001, Cenefas: 062A10, Tipo: S, MÛdulo: A, DirecciÛn: Auto Sur - KR 73, Localidad: Ciudad Bol√≠var, Panel: Auto Sur - KR 73, Audio: Autopista Sur Carrera 73, Zona: H</description>
+        <Point>
+          <coordinates>-74.16834516,4.595591711,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_T04</styleUrl>
+        <name>Br. Barlovento</name>
+        <description>Orden: CBO002, Cenefas: 276A10, Tipo: S, MÛdulo: A, DirecciÛn: KR 72 - Auto Sur, Localidad: Ciudad Bol√≠var, Panel: KR 72 - Auto Sur, Audio: Carrera 72 Autopista Sur, Zona: H</description>
+        <Point>
+          <coordinates>-74.1673798,4.593928662,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_T04</styleUrl>
+        <name>Br. Barlovento</name>
+        <description>Orden: CBO003, Cenefas: 208A10, Tipo: S, MÛdulo: A, DirecciÛn: KR 72 - CL 60A Sur, Localidad: Ciudad Bol√≠var, Panel: KR 72 - CL 60A Sur, Audio: Carrera 72 Calle 60 A Sur, Zona: H</description>
+        <Point>
+          <coordinates>-74.16739952,4.59148659,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_T04</styleUrl>
+        <name>Br. Ismael Perdomo</name>
+        <description>Orden: CBO005, Cenefas: 211A10, Tipo: S, MÛdulo: A, DirecciÛn: KR 72 - 63A-25, Localidad: Ciudad Bol√≠var, Panel: KR 72 - 63A-25, Audio: Carrera 72 63 A, Zona: H</description>
+        <Point>
+          <coordinates>-74.16689917,4.586909954,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_T04</styleUrl>
+        <name>Br. El Perdomo</name>
+        <description>Orden: CBO006, Cenefas: 189A10, Tipo: S, MÛdulo: A, DirecciÛn: CL 65 Sur - KR 73B, Localidad: Ciudad Bol√≠var, Panel: CL 65 Sur - KR 73B, Audio: Calle 65 Sur Carrera 73 Be, Zona: H</description>
+        <Point>
+          <coordinates>-74.16874523,4.584968626,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_T04</styleUrl>
+        <name>Br. Ismael Perdomo</name>
+        <description>Orden: CBO007, Cenefas: 119A10, Tipo: S, MÛdulo: A, DirecciÛn: DG 66 Sur - TV 73D bis A, Localidad: Ciudad Bol√≠var, Panel: DG 66 Sur - TV 73D bis A, Audio: Diagonal 66 Sur Transversal 73 D bis A, Zona: H</description>
+        <Point>
+          <coordinates>-74.16963164,4.583820264,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_T04</styleUrl>
+        <name>Br. Ismael Perdomo</name>
+        <description>Orden: CBO008, Cenefas: 115A10, Tipo: S, MÛdulo: A, DirecciÛn: TV 73G - CL 68A Bis Sur, Localidad: Ciudad Bol√≠var, Panel: TV 73G - CL 68A Bis Sur, Audio: Transversal 73 G Calle 68 A Bis Sur, Zona: H</description>
+        <Point>
+          <coordinates>-74.16950653,4.582272357,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_T04</styleUrl>
+        <name>Br. Sierra Morena</name>
+        <description>Orden: CBO009, Cenefas: 130A10, Tipo: S, MÛdulo: A, DirecciÛn: TV 73H - DG 70 Sur, Localidad: Ciudad Bol√≠var, Panel: TV 73H - DG 70 Sur, Audio: Transversal 73 H Diagonal 70 Sur, Zona: H</description>
+        <Point>
+          <coordinates>-74.16880294,4.580809342,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_T04</styleUrl>
+        <name>Br. Sierra Morena</name>
+        <description>Orden: CBO010, Cenefas: 113A10, Tipo: S, MÛdulo: A, DirecciÛn: DG 70 Sur - KR 73D, Localidad: Ciudad Bol√≠var, Panel: DG 70 Sur - KR 73D, Audio: Diagonal 70 Sur Carrera 73 D, Zona: H</description>
+        <Point>
+          <coordinates>-74.16734961,4.579331762,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_T04</styleUrl>
+        <name>Br. Sierra Morena</name>
+        <description>Orden: PER007, Cenefas: 114A10, Tipo: S, MÛdulo: A, DirecciÛn: DG 70 Sur - KR 73D Bis, Localidad: Ciudad Bol√≠var, Panel: DG 70 Sur - KR 73D Bis, Audio: Diagonal 70 Sur Carrera 73 D Bis, Zona: H</description>
+        <Point>
+          <coordinates>-74.1672161,4.579376859,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_T04</styleUrl>
+        <name>Br. Sierra Morena</name>
+        <description>Orden: PER008, Cenefas: 129A10, Tipo: S, MÛdulo: A, DirecciÛn: TV 73H - CL 69B Sur, Localidad: Ciudad Bol√≠var, Panel: TV 73H - CL 69B Sur, Audio: Transversal 73 H Calle 69 Be Sur, Zona: H</description>
+        <Point>
+          <coordinates>-74.16867543,4.580778929,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_T04</styleUrl>
+        <name>Br. Ismael Perdomo</name>
+        <description>Orden: PER009, Cenefas: 116A10, Tipo: S, MÛdulo: A, DirecciÛn: TV 73G - DG 68B Sur, Localidad: Ciudad Bol√≠var, Panel: TV 73G - DG 68B Sur, Audio: Transversal 73 G Diagonal 68 Be Sur, Zona: H</description>
+        <Point>
+          <coordinates>-74.16910584,4.581938346,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_T04</styleUrl>
+        <name>Br. Perdomo Alto</name>
+        <description>Orden: PER010, Cenefas: 120A10, Tipo: S, MÛdulo: A, DirecciÛn: DG 66 Sur - TV 73D Bis, Localidad: Ciudad Bol√≠var, Panel: DG 66 Sur - TV 73D Bis, Audio: Diagonal 66 Sur Transversal 73 D Bis, Zona: H</description>
+        <Point>
+          <coordinates>-74.16960885,4.583704511,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_T04</styleUrl>
+        <name>Urb. Ismael Perdomo</name>
+        <description>Orden: PER011, Cenefas: 188A10, Tipo: S, MÛdulo: A, DirecciÛn: CL 65 Sur - KR 73C, Localidad: Ciudad Bol√≠var, Panel: CL 65 Sur - KR 73C, Audio: Calle 65 Sur Carrera 73 C, Zona: H</description>
+        <Point>
+          <coordinates>-74.16902651,4.584801666,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_T04</styleUrl>
+        <name>CAI Perdomo</name>
+        <description>Orden: PER012, Cenefas: 191A10, Tipo: S, MÛdulo: A, DirecciÛn: KR 73 - CL 64 Sur, Localidad: Ciudad Bol√≠var, Panel: KR 73 - CL 64 Sur, Audio: Carrera 73 Calle 63 A Sur, Zona: H</description>
+        <Point>
+          <coordinates>-74.16861977,4.586283865,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_T04</styleUrl>
+        <name>Urb. Calabria</name>
+        <description>Orden: PER013, Cenefas: 194A10, Tipo: S, MÛdulo: A, DirecciÛn: KR 73 - CL 62 D Bis A Sur, Localidad: Ciudad Bol√≠var, Panel: KR 73 - CL 62 D Bis A Sur, Audio: Carrera 73 Calle 62 D Bis A Sur, Zona: H</description>
+        <Point>
+          <coordinates>-74.16895668,4.589011785,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_T04</styleUrl>
+        <name>Br. Barlovento</name>
+        <description>Orden: PER014, Cenefas: 282A10, Tipo: S, MÛdulo: A, DirecciÛn: KR 73 - CL 60A Sur, Localidad: Ciudad Bol√≠var, Panel: KR 73 - CL 60A Sur, Audio: Carrera 73 Calle 60 A Sur, Zona: H</description>
+        <Point>
+          <coordinates>-74.16896256,4.591782658,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_T04</styleUrl>
+        <name>Br. Barlovento</name>
+        <description>Orden: PER015, Cenefas: 279A10, Tipo: S, MÛdulo: A, DirecciÛn: KR 73 - CL 57R Sur, Localidad: Ciudad Bol√≠var, Panel: KR 73 - CL 57R Sur, Audio: Carrera 73 Calle 57 R Sur, Zona: H</description>
+        <Point>
+          <coordinates>-74.16886735,4.594468361,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

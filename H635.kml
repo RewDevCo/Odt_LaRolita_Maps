@@ -1,0 +1,1085 @@
+<?xml version="1.0" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Style id="Style_H635">
+      <IconStyle>
+        <color>ff9999ff</color>
+        <scale>1.0</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_K635">
+      <IconStyle>
+        <color>ffff9999</color>
+        <scale>1.0</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Folder>
+      <name>H635</name>
+      <Placemark>
+        <styleUrl>#Style_H635</styleUrl>
+        <name>Urb. El Ensue√±o</name>
+        <description>Orden: HHH034, Cenefas: 386A10, Tipo: S, MÛdulo: A, DirecciÛn: AV. J. Gait√°n C. - DG 68 B Sur, Localidad: Ciudad Bol√≠var, Panel: AV. J. Gait√°n C. - DG 68 B Sur, Audio: Avenida Jorge Gait√°n Cort√©s Diagonal 68 Be Sur, Zona: H</description>
+        <Point>
+          <coordinates>-74.15865031,4.580399664,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H635</styleUrl>
+        <name>Conjunto Residencial Los Robles</name>
+        <description>Orden: HHH035, Cenefas: 069A10, Tipo: S, MÛdulo: A, DirecciÛn: CL 68F Sur - AV. J. Gait√°n C., Localidad: Ciudad Bol√≠var, Panel: CL 68F Sur - AV. J. Gait√°n C., Audio: Calle 68 F Sur Avenida Jorge Gait√°n Cort√©s, Zona: H</description>
+        <Point>
+          <coordinates>-74.1610017,4.58087385,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H635</styleUrl>
+        <name>Br. Pinos del Sur</name>
+        <description>Orden: HHH036, Cenefas: 402A10, Tipo: S, MÛdulo: A, DirecciÛn: CL 68F Sur - TV 70C, Localidad: Ciudad Bol√≠var, Panel: CL 68F Sur - TV 70C, Audio: Calle 68 F Sur Transversal 70 C, Zona: H</description>
+        <Point>
+          <coordinates>-74.162062,4.581862,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H635</styleUrl>
+        <name>Br. El Pe√±√≥n del Cortijo</name>
+        <description>Orden: HHH037, Cenefas: 066A10, Tipo: S, MÛdulo: A, DirecciÛn: DG 68 Sur - KR 71F, Localidad: Ciudad Bol√≠var, Panel: DG 68 Sur - KR 71F, Audio: Diagonal 68 Sur Carrera 71 F, Zona: H</description>
+        <Point>
+          <coordinates>-74.16430733,4.583749371,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H635</styleUrl>
+        <name>Br. Sierra Morena CL 69F Sur</name>
+        <description>Orden: HHH038, Cenefas: 064A10, Tipo: S, MÛdulo: A, DirecciÛn: TV 60 - CL 69F Sur, Localidad: Ciudad Bol√≠var, Panel: TV 60 - CL 69F Sur, Audio: Transversal 60 Calle 69 F Sur, Zona: H</description>
+        <Point>
+          <coordinates>-74.16576925,4.580481057,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H635</styleUrl>
+        <name>Br. Sierra Morena III Sector</name>
+        <description>Orden: HHH043, Cenefas: 326A10, Tipo: S, MÛdulo: A, DirecciÛn: CL 75A Sur - TV 59, Localidad: Ciudad Bol√≠var, Panel: CL 75A Sur - TV 59, Audio: Calle 75 A Sur Transversal 59, Zona: H</description>
+        <Point>
+          <coordinates>-74.1674684,4.574713809,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H635</styleUrl>
+        <name>Br. Jerusal√©n las Brisas</name>
+        <description>Orden: HHH044, Cenefas: 328A10, Tipo: S, MÛdulo: A, DirecciÛn: TV 50 - CL 75A Sur, Localidad: Ciudad Bol√≠var, Panel: TV 50 - CL 75A Sur, Audio: Transversal 50 Calle 75 A Sur, Zona: H</description>
+        <Point>
+          <coordinates>-74.16696615,4.573144074,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H635</styleUrl>
+        <name>Br. Potos√≠</name>
+        <description>Orden: HHH045, Cenefas: 642A11, Tipo: S, MÛdulo: A, DirecciÛn: TV 50 - CL 76A Sur, Localidad: Ciudad Bol√≠var, Panel: TV 50 - CL 76A Sur, Audio: Transversal 50 Calle 76 A Sur, Zona: H</description>
+        <Point>
+          <coordinates>-74.168039,4.572066,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H635</styleUrl>
+        <name>Br. Arborizadora Alta</name>
+        <description>Orden: HHH052, Cenefas: 183A11, Tipo: S, MÛdulo: A, DirecciÛn: CL 72F Sur - TV 39A, Localidad: Ciudad Bol√≠var, Panel: CL 72F Sur - TV 39A, Audio: Calle 72 F Sur Transversal 39 A, Zona: H</description>
+        <Point>
+          <coordinates>-74.16294598,4.56684008,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H635</styleUrl>
+        <name>Br. Arborizadora Alta</name>
+        <description>Orden: HHH053, Cenefas: 171A11, Tipo: S, MÛdulo: A, DirecciÛn: DG 72 Sur - KR 35A, Localidad: Ciudad Bol√≠var, Panel: DG 72 Sur - KR 35A, Audio: Diagonal 72 Sur Carrera 35 A, Zona: H</description>
+        <Point>
+          <coordinates>-74.16362941,4.564203532,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H635</styleUrl>
+        <name>Estaci√≥n Sevillana</name>
+        <description>Orden: HHH031, Cenefas: 057A09, Tipo: S, MÛdulo: A, DirecciÛn: AV. NQS - KR 57, Localidad: Kennedy, Panel: AV. NQS - KR 57, Audio: Avenida N Q S Carrera 57, Zona: G</description>
+        <Point>
+          <coordinates>-74.14830318,4.595374938,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H635</styleUrl>
+        <name>Br. Guadalupe</name>
+        <description>Orden: HHH032, Cenefas: 616A09, Tipo: S, MÛdulo: A, DirecciÛn: Auto Sur - TV 62G, Localidad: Ciudad Bol√≠var, Panel: Auto Sur - TV 62G, Audio: Autopista Sur Transversal 62 G, Zona: G</description>
+        <Point>
+          <coordinates>-74.15309197,4.596289595,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H635</styleUrl>
+        <name>Br. Madelena</name>
+        <description>Orden: AAA013, Cenefas: 216A10, Tipo: S, MÛdulo:  , DirecciÛn: KR 70 - CL 62C Sur, Localidad: Ciudad Bol√≠var, Panel: KR 70 - CL 62C Sur, Audio: Carrera 70 Calle 62 C Sur, Zona: H</description>
+        <Point>
+          <coordinates>-74.16045183,4.589284779,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H635</styleUrl>
+        <name>Br. Madelena</name>
+        <description>Orden: AAA014, Cenefas: 215A10, Tipo: S, MÛdulo:  , DirecciÛn: CL 65 Sur - KR 68C, Localidad: Ciudad Bol√≠var, Panel: CL 65 Sur - KR 68C, Audio: Calle 65 Sur Carrera 68 C, Zona: H</description>
+        <Point>
+          <coordinates>-74.15897972,4.587848663,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H635</styleUrl>
+        <name>Br. Sierra Morena</name>
+        <description>Orden: HHH060, Cenefas: 040A10, Tipo: S, MÛdulo: A, DirecciÛn: TV 60 - DG 72 Sur, Localidad: Ciudad Bol√≠var, Panel: TV 60 - DG 72 Sur, Audio: Transversal 60 Diagonal 72 Sur, Zona: H</description>
+        <Point>
+          <coordinates>-74.16651496,4.578461586,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H635</styleUrl>
+        <name>Br. Sierra Morena</name>
+        <description>Orden: HHH061, Cenefas: 331A10, Tipo: S, MÛdulo: A, DirecciÛn: DG 73C Sur - TV 73B, Localidad: Ciudad Bol√≠var, Panel: DG 73C Sur - TV 73B, Audio: Diagonal 73 C Sur Transversal 73 Be, Zona: H</description>
+        <Point>
+          <coordinates>-74.16773392,4.578440013,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H635</styleUrl>
+        <name>Br. Sierra Morena  Tv  73J</name>
+        <description>Orden: HHH062, Cenefas: 112A10, Tipo: S, MÛdulo: A, DirecciÛn: DG 73C Sur - TV 73J, Localidad: Ciudad Bol√≠var, Panel: DG 73C Sur - TV 73J, Audio: Diagonal 73 C Sur Transversal 73 J, Zona: H</description>
+        <Point>
+          <coordinates>-74.1699702,4.579230427,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H635</styleUrl>
+        <name>Br. Sierra Morena</name>
+        <description>Orden: HHH063, Cenefas: 109A10, Tipo: S, MÛdulo: A, DirecciÛn: DG 75 Sur - TV 73C, Localidad: Ciudad Bol√≠var, Panel: DG 75 Sur - TV 73C, Audio: Diagonal 75 Sur Transversal 73 C, Zona: H</description>
+        <Point>
+          <coordinates>-74.16911563,4.577119935,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H635</styleUrl>
+        <name>Br. Potos√≠</name>
+        <description>Orden: HHH067, Cenefas: 157A11, Tipo: S, MÛdulo: A, DirecciÛn: KR 42 - CL 78 Sur, Localidad: Ciudad Bol√≠var, Panel: KR 42 - CL 78 Sur, Audio: Carrera 42 Calle 78 Sur, Zona: H</description>
+        <Point>
+          <coordinates>-74.168796,4.568047,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H635</styleUrl>
+        <name>Br. Jerusal√©n las Brisas</name>
+        <description>Orden: HHH068, Cenefas: 635A11, Tipo: S, MÛdulo: A, DirecciÛn: KR 40 - CL 76 Sur, Localidad: Ciudad Bol√≠var, Panel: KR 40 - CL 76 Sur, Audio: Carrera 40 Calle 76 Sur, Zona: H</description>
+        <Point>
+          <coordinates>-74.166798,4.56719,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H635</styleUrl>
+        <name>CED Gimnasio Sabio Caldas</name>
+        <description>Orden: HHH069, Cenefas: 178B11, Tipo: M, MÛdulo: B, DirecciÛn: KR 42 - CL 73 Sur, Localidad: Ciudad Bol√≠var, Panel: KR 42 - CL 73 Sur, Audio: Carrera 42 Calle 73 Sur, Zona: H</description>
+        <Point>
+          <coordinates>-74.163474,4.568102,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H635</styleUrl>
+        <name>Br. Franco</name>
+        <description>Orden: HHH001, Cenefas: 206A06, Tipo: S, MÛdulo: A, DirecciÛn: CL 19 - KR 69B, Localidad: Fontib√≥n, Panel: CL 19 - KR 69B, Audio: Calle 19 Carrera 69 Be, Zona: K</description>
+        <Point>
+          <coordinates>-74.12050691,4.648472719,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H635</styleUrl>
+        <name>Br. Montevideo</name>
+        <description>Orden: HHH002, Cenefas: 265A06, Tipo: S, MÛdulo: A, DirecciÛn: CL 19 - AK 68D, Localidad: Fontib√≥n, Panel: CL 19 - AK 68D, Audio: Calle 19 Avenida Carrera 68 D, Zona: K</description>
+        <Point>
+          <coordinates>-74.11782174,4.646237418,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H635</styleUrl>
+        <name>INVIMA</name>
+        <description>Orden: HHH003, Cenefas: 407A06, Tipo: S, MÛdulo: A, DirecciÛn: AK 68 D - CL 17, Localidad: Fontib√≥n, Panel: AK 68 D - CL 17, Audio: Avenida Carrera 68 D Calle 17, Zona: K</description>
+        <Point>
+          <coordinates>-74.1195699,4.643320756,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H635</styleUrl>
+        <name>Br. Granjas de Techo</name>
+        <description>Orden: HHH004, Cenefas: 200A06, Tipo: S, MÛdulo: A, DirecciÛn: KR 68D - AC 13, Localidad: Fontib√≥n, Panel: KR 68D - AC 13, Audio: Carrera 68 D Avenida Calle 13, Zona: K</description>
+        <Point>
+          <coordinates>-74.12133136,4.641234419,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H635</styleUrl>
+        <name>Br. Montevideo</name>
+        <description>Orden: HHH005, Cenefas: 021A06, Tipo: S, MÛdulo: A, DirecciÛn: AV. Centenario - KR 68B, Localidad: Fontib√≥n, Panel: AV. Centenario - KR 68B, Audio: Avenida Centenario Carrera 68 Be, Zona: K</description>
+        <Point>
+          <coordinates>-74.12397528,4.644433629,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H635</styleUrl>
+        <name>Br. Franco</name>
+        <description>Orden: HHH006, Cenefas: 110A06, Tipo: S, MÛdulo: A, DirecciÛn: AV. Centenario - KR 69B, Localidad: Fontib√≥n, Panel: AV. Centenario - KR 69B, Audio: Avenida Centenario Carrera 69 Be, Zona: K</description>
+        <Point>
+          <coordinates>-74.12480701,4.647037737,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H635</styleUrl>
+        <name>Br. Interindustrial</name>
+        <description>Orden: HHH007, Cenefas: 055A07, Tipo: M, MÛdulo: A, DirecciÛn: AV. Boyac√° - CL 13, Localidad: Fontib√≥n, Panel: AV. Boyac√° - CL 13, Audio: Avenida Boyac√° Calle 13, Zona: K</description>
+        <Point>
+          <coordinates>-74.12816078,4.648306897,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H635</styleUrl>
+        <name>Br. Nuevo Techo</name>
+        <description>Orden: HHH008, Cenefas: 344C07, Tipo: M, MÛdulo: C, DirecciÛn: AV. Boyac√° - CL 15, Localidad: Kennedy, Panel: AV. Boyac√° - CL 15, Audio: Avenida Boyac√° Calle 15, Zona: F</description>
+        <Point>
+          <coordinates>-74.1303283,4.646683663,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H635</styleUrl>
+        <name>Avenida Alsacia</name>
+        <description>Orden: HHH009, Cenefas: 093A07, Tipo: M, MÛdulo: A, DirecciÛn: AV. Boyac√° - AC 12, Localidad: Kennedy, Panel: AV. Boyac√° - AC 12, Audio: Avenida Boyac√° Avenida Calle 12, Zona: F</description>
+        <Point>
+          <coordinates>-74.13306833,4.64392792,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H635</styleUrl>
+        <name>Cooperativa de Sub-Oficiales</name>
+        <description>Orden: HHH010, Cenefas: 107A07, Tipo: M, MÛdulo: A, DirecciÛn: AV. Boyac√° - CL 10, Localidad: Kennedy, Panel: AV. Boyac√° - CL 10, Audio: Avenida Boyac√° Calle D√©cima, Zona: F</description>
+        <Point>
+          <coordinates>-74.13509251,4.640993947,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H635</styleUrl>
+        <name>Bavaria</name>
+        <description>Orden: HHH011, Cenefas: 068A07, Tipo: M, MÛdulo: A, DirecciÛn: AV. Boyac√° - AC 8, Localidad: Kennedy, Panel: AV. Boyac√° - AC 8, Audio: Avenida Boyac√° Avenida Calle Octava, Zona: F</description>
+        <Point>
+          <coordinates>-74.13679376,4.637662942,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H635</styleUrl>
+        <name>Avenida Am√©ricas</name>
+        <description>Orden: HHH012, Cenefas: 102A07, Tipo: M, MÛdulo: A, DirecciÛn: AV. Boyac√° - CL 6D, Localidad: Kennedy, Panel: AV. Boyac√° - CL 6D, Audio: Avenida Boyac√° Calle Sexta D, Zona: F</description>
+        <Point>
+          <coordinates>-74.13780577,4.63252139,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H635</styleUrl>
+        <name>Br. Las Am√©ricas Occidental</name>
+        <description>Orden: HHH013, Cenefas: 581A08, Tipo: M, MÛdulo: A, DirecciÛn: AV. Boyac√° - CL 3B, Localidad: Kennedy, Panel: AV. Boyac√° - CL 3B, Audio: Avenida Boyac√° Calle Tercera Be, Zona: F</description>
+        <Point>
+          <coordinates>-74.13831855,4.627317837,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H635</styleUrl>
+        <name>Pq. Mundo Aventura</name>
+        <description>Orden: HHH014, Cenefas: 157A08, Tipo: M, MÛdulo: A, DirecciÛn: AV. Boyac√° - CL 2, Localidad: Kennedy, Panel: AV. Boyac√° - CL 2, Audio: Avenida Boyac√° Calle Segunda, Zona: F</description>
+        <Point>
+          <coordinates>-74.13866961,4.623773457,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H635</styleUrl>
+        <name>Avenida 1 de Mayo</name>
+        <description>Orden: HHH015, Cenefas: 015A09, Tipo: M, MÛdulo: A, DirecciÛn: AV. Boyac√° - AV. 1 de Mayo, Localidad: Kennedy, Panel: AV. Boyac√° - AV. 1 de Mayo, Audio: Avenida Boyac√° Avenida Primero de Mayo, Zona: G</description>
+        <Point>
+          <coordinates>-74.14041185,4.616080371,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H635</styleUrl>
+        <name>Parroquia San Cayetano</name>
+        <description>Orden: HHH016, Cenefas: 062A09, Tipo: M, MÛdulo: A, DirecciÛn: AV. Boyac√° - CL 37B Sur, Localidad: Kennedy, Panel: AV. Boyac√° - CL 37B Sur, Audio: Avenida Boyac√° Calle 37 Be Sur, Zona: G</description>
+        <Point>
+          <coordinates>-74.14102965,4.612774698,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H635</styleUrl>
+        <name>IED Alfonso L√≥pez Pumarejo</name>
+        <description>Orden: HHH017, Cenefas: 016A09, Tipo: M, MÛdulo: A, DirecciÛn: AV. Boyac√° - CL 39 Sur, Localidad: Kennedy, Panel: AV. Boyac√° - CL 39 Sur, Audio: Avenida Boyac√° Calle 39 Sur, Zona: G</description>
+        <Point>
+          <coordinates>-74.1420731,4.606924691,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H635</styleUrl>
+        <name>Br. El Progreso I Sector</name>
+        <description>Orden: HHH018, Cenefas: 017A09, Tipo: M, MÛdulo: A, DirecciÛn: AV. Boyac√° - CL 40 Sur, Localidad: Kennedy, Panel: AV. Boyac√° - CL 40 Sur, Audio: Avenida Boyac√° Calle 40 Sur, Zona: G</description>
+        <Point>
+          <coordinates>-74.143999,4.601724,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H635</styleUrl>
+        <name>CAI Las Delicias</name>
+        <description>Orden: HHH019, Cenefas: 028A09, Tipo: M, MÛdulo: A, DirecciÛn: AV. Boyac√° - CL 43C Sur, Localidad: Kennedy, Panel: AV. Boyac√° - CL 43C Sur, Audio: Avenida Boyac√° Calle 43 C Sur, Zona: G</description>
+        <Point>
+          <coordinates>-74.14508744,4.598840884,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H635</styleUrl>
+        <name>Estaci√≥n Madelena</name>
+        <description>Orden: HHH022, Cenefas: 056A09, Tipo: M, MÛdulo: A, DirecciÛn: Auto Sur - KR 66A, Localidad: Ciudad Bol√≠var, Panel: Auto Sur - KR 66A, Audio: Autopista Sur Carrera 66 A, Zona: G</description>
+        <Point>
+          <coordinates>-74.15600109,4.596552131,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H635</styleUrl>
+        <name>Br. Rafael Escamilla</name>
+        <description>Orden: HHH023, Cenefas: 232A10, Tipo: S, MÛdulo: A, DirecciÛn: KR 67 - CL 59 Sur, Localidad: Ciudad Bol√≠var, Panel: KR 67 - CL 59 Sur, Audio: Carrera 67 Calle 59 Sur, Zona: H</description>
+        <Point>
+          <coordinates>-74.15795407,4.593787822,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H635</styleUrl>
+        <name>Br. Madelena</name>
+        <description>Orden: HHH024, Cenefas: 230A10, Tipo: S, MÛdulo: A, DirecciÛn: KR 67 - CL 60A Sur, Localidad: Ciudad Bol√≠var, Panel: KR 67 - CL 60A Sur, Audio: Carrera 67 Calle 60 A Sur, Zona: H</description>
+        <Point>
+          <coordinates>-74.1577824,4.592239357,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H635</styleUrl>
+        <name>Pq. Residencial el Para√≠so</name>
+        <description>Orden: HHH027, Cenefas: 461A10, Tipo: S, MÛdulo: A, DirecciÛn: CL 59 C Sur - TV 70, Localidad: Ciudad Bol√≠var, Panel: CL 59 C Sur - TV 70, Audio: Calle 59 C Sur Transversal 70, Zona: H</description>
+        <Point>
+          <coordinates>-74.156603,4.585629,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H635</styleUrl>
+        <name>Urb. Atlanta</name>
+        <description>Orden: HHH028, Cenefas: 074A10, Tipo: M, MÛdulo: A, DirecciÛn: AV. J. Gait√°n C. - AV. V/cio, Localidad: Ciudad Bol√≠var, Panel: AV. J. Gait√°n C. - AV. V/cio, Audio: Avenida Jorge Gait√°n Cort√©s Avenida Villavicencio, Zona: H</description>
+        <Point>
+          <coordinates>-74.15566195,4.580897318,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H635</styleUrl>
+        <name>Urb. El Ensue√±o</name>
+        <description>Orden: HHH034, Cenefas: 386A10, Tipo: S, MÛdulo: A, DirecciÛn: AV. J. Gait√°n C. - DG 68 B Sur, Localidad: Ciudad Bol√≠var, Panel: AV. J. Gait√°n C. - DG 68 B Sur, Audio: Avenida Jorge Gait√°n Cort√©s Diagonal 68 Be Sur, Zona: H</description>
+        <Point>
+          <coordinates>-74.15865031,4.580399664,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H635</styleUrl>
+        <name>Conjunto Residencial Los Robles</name>
+        <description>Orden: HHH035, Cenefas: 069A10, Tipo: S, MÛdulo: A, DirecciÛn: CL 68F Sur - AV. J. Gait√°n C., Localidad: Ciudad Bol√≠var, Panel: CL 68F Sur - AV. J. Gait√°n C., Audio: Calle 68 F Sur Avenida Jorge Gait√°n Cort√©s, Zona: H</description>
+        <Point>
+          <coordinates>-74.1610017,4.58087385,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H635</styleUrl>
+        <name>Br. Pinos del Sur</name>
+        <description>Orden: HHH036, Cenefas: 402A10, Tipo: S, MÛdulo: A, DirecciÛn: CL 68F Sur - TV 70C, Localidad: Ciudad Bol√≠var, Panel: CL 68F Sur - TV 70C, Audio: Calle 68 F Sur Transversal 70 C, Zona: H</description>
+        <Point>
+          <coordinates>-74.162062,4.581862,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H635</styleUrl>
+        <name>Br. El Pe√±√≥n del Cortijo</name>
+        <description>Orden: HHH037, Cenefas: 066A10, Tipo: S, MÛdulo: A, DirecciÛn: DG 68 Sur - KR 71F, Localidad: Ciudad Bol√≠var, Panel: DG 68 Sur - KR 71F, Audio: Diagonal 68 Sur Carrera 71 F, Zona: H</description>
+        <Point>
+          <coordinates>-74.16430733,4.583749371,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H635</styleUrl>
+        <name>Br. Sierra Morena CL 69F Sur</name>
+        <description>Orden: HHH038, Cenefas: 064A10, Tipo: S, MÛdulo: A, DirecciÛn: TV 60 - CL 69F Sur, Localidad: Ciudad Bol√≠var, Panel: TV 60 - CL 69F Sur, Audio: Transversal 60 Calle 69 F Sur, Zona: H</description>
+        <Point>
+          <coordinates>-74.16576925,4.580481057,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H635</styleUrl>
+        <name>Br. Sierra Morena III Sector</name>
+        <description>Orden: HHH043, Cenefas: 326A10, Tipo: S, MÛdulo: A, DirecciÛn: CL 75A Sur - TV 59, Localidad: Ciudad Bol√≠var, Panel: CL 75A Sur - TV 59, Audio: Calle 75 A Sur Transversal 59, Zona: H</description>
+        <Point>
+          <coordinates>-74.1674684,4.574713809,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H635</styleUrl>
+        <name>Br. Jerusal√©n las Brisas</name>
+        <description>Orden: HHH044, Cenefas: 328A10, Tipo: S, MÛdulo: A, DirecciÛn: TV 50 - CL 75A Sur, Localidad: Ciudad Bol√≠var, Panel: TV 50 - CL 75A Sur, Audio: Transversal 50 Calle 75 A Sur, Zona: H</description>
+        <Point>
+          <coordinates>-74.16696615,4.573144074,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H635</styleUrl>
+        <name>Br. Potos√≠</name>
+        <description>Orden: HHH045, Cenefas: 642A11, Tipo: S, MÛdulo: A, DirecciÛn: TV 50 - CL 76A Sur, Localidad: Ciudad Bol√≠var, Panel: TV 50 - CL 76A Sur, Audio: Transversal 50 Calle 76 A Sur, Zona: H</description>
+        <Point>
+          <coordinates>-74.168039,4.572066,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H635</styleUrl>
+        <name>Br. Arborizadora Alta</name>
+        <description>Orden: HHH052, Cenefas: 183A11, Tipo: S, MÛdulo: A, DirecciÛn: CL 72F Sur - TV 39A, Localidad: Ciudad Bol√≠var, Panel: CL 72F Sur - TV 39A, Audio: Calle 72 F Sur Transversal 39 A, Zona: H</description>
+        <Point>
+          <coordinates>-74.16294598,4.56684008,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H635</styleUrl>
+        <name>Br. Arborizadora Alta</name>
+        <description>Orden: HHH053, Cenefas: 171A11, Tipo: S, MÛdulo: A, DirecciÛn: DG 72 Sur - KR 35A, Localidad: Ciudad Bol√≠var, Panel: DG 72 Sur - KR 35A, Audio: Diagonal 72 Sur Carrera 35 A, Zona: H</description>
+        <Point>
+          <coordinates>-74.16362941,4.564203532,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H635</styleUrl>
+        <name>Estaci√≥n Sevillana</name>
+        <description>Orden: HHH031, Cenefas: 057A09, Tipo: S, MÛdulo: A, DirecciÛn: AV. NQS - KR 57, Localidad: Kennedy, Panel: AV. NQS - KR 57, Audio: Avenida N Q S Carrera 57, Zona: G</description>
+        <Point>
+          <coordinates>-74.14830318,4.595374938,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H635</styleUrl>
+        <name>Br. Guadalupe</name>
+        <description>Orden: HHH032, Cenefas: 616A09, Tipo: S, MÛdulo: A, DirecciÛn: Auto Sur - TV 62G, Localidad: Ciudad Bol√≠var, Panel: Auto Sur - TV 62G, Audio: Autopista Sur Transversal 62 G, Zona: G</description>
+        <Point>
+          <coordinates>-74.15309197,4.596289595,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H635</styleUrl>
+        <name>Br. Madelena</name>
+        <description>Orden: AAA013, Cenefas: 216A10, Tipo: S, MÛdulo:  , DirecciÛn: KR 70 - CL 62C Sur, Localidad: Ciudad Bol√≠var, Panel: KR 70 - CL 62C Sur, Audio: Carrera 70 Calle 62 C Sur, Zona: H</description>
+        <Point>
+          <coordinates>-74.16045183,4.589284779,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H635</styleUrl>
+        <name>Br. Madelena</name>
+        <description>Orden: AAA014, Cenefas: 215A10, Tipo: S, MÛdulo:  , DirecciÛn: CL 65 Sur - KR 68C, Localidad: Ciudad Bol√≠var, Panel: CL 65 Sur - KR 68C, Audio: Calle 65 Sur Carrera 68 C, Zona: H</description>
+        <Point>
+          <coordinates>-74.15897972,4.587848663,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H635</styleUrl>
+        <name>Br. Sierra Morena</name>
+        <description>Orden: HHH060, Cenefas: 040A10, Tipo: S, MÛdulo: A, DirecciÛn: TV 60 - DG 72 Sur, Localidad: Ciudad Bol√≠var, Panel: TV 60 - DG 72 Sur, Audio: Transversal 60 Diagonal 72 Sur, Zona: H</description>
+        <Point>
+          <coordinates>-74.16651496,4.578461586,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H635</styleUrl>
+        <name>Br. Sierra Morena</name>
+        <description>Orden: HHH061, Cenefas: 331A10, Tipo: S, MÛdulo: A, DirecciÛn: DG 73C Sur - TV 73B, Localidad: Ciudad Bol√≠var, Panel: DG 73C Sur - TV 73B, Audio: Diagonal 73 C Sur Transversal 73 Be, Zona: H</description>
+        <Point>
+          <coordinates>-74.16773392,4.578440013,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H635</styleUrl>
+        <name>Br. Sierra Morena  Tv  73J</name>
+        <description>Orden: HHH062, Cenefas: 112A10, Tipo: S, MÛdulo: A, DirecciÛn: DG 73C Sur - TV 73J, Localidad: Ciudad Bol√≠var, Panel: DG 73C Sur - TV 73J, Audio: Diagonal 73 C Sur Transversal 73 J, Zona: H</description>
+        <Point>
+          <coordinates>-74.1699702,4.579230427,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H635</styleUrl>
+        <name>Br. Sierra Morena</name>
+        <description>Orden: HHH063, Cenefas: 109A10, Tipo: S, MÛdulo: A, DirecciÛn: DG 75 Sur - TV 73C, Localidad: Ciudad Bol√≠var, Panel: DG 75 Sur - TV 73C, Audio: Diagonal 75 Sur Transversal 73 C, Zona: H</description>
+        <Point>
+          <coordinates>-74.16911563,4.577119935,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H635</styleUrl>
+        <name>Br. Potos√≠</name>
+        <description>Orden: HHH067, Cenefas: 157A11, Tipo: S, MÛdulo: A, DirecciÛn: KR 42 - CL 78 Sur, Localidad: Ciudad Bol√≠var, Panel: KR 42 - CL 78 Sur, Audio: Carrera 42 Calle 78 Sur, Zona: H</description>
+        <Point>
+          <coordinates>-74.168796,4.568047,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H635</styleUrl>
+        <name>Br. Jerusal√©n las Brisas</name>
+        <description>Orden: HHH068, Cenefas: 635A11, Tipo: S, MÛdulo: A, DirecciÛn: KR 40 - CL 76 Sur, Localidad: Ciudad Bol√≠var, Panel: KR 40 - CL 76 Sur, Audio: Carrera 40 Calle 76 Sur, Zona: H</description>
+        <Point>
+          <coordinates>-74.166798,4.56719,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H635</styleUrl>
+        <name>CED Gimnasio Sabio Caldas</name>
+        <description>Orden: HHH069, Cenefas: 178B11, Tipo: M, MÛdulo: B, DirecciÛn: KR 42 - CL 73 Sur, Localidad: Ciudad Bol√≠var, Panel: KR 42 - CL 73 Sur, Audio: Carrera 42 Calle 73 Sur, Zona: H</description>
+        <Point>
+          <coordinates>-74.163474,4.568102,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H635</styleUrl>
+        <name>Br. Franco</name>
+        <description>Orden: HHH001, Cenefas: 206A06, Tipo: S, MÛdulo: A, DirecciÛn: CL 19 - KR 69B, Localidad: Fontib√≥n, Panel: CL 19 - KR 69B, Audio: Calle 19 Carrera 69 Be, Zona: K</description>
+        <Point>
+          <coordinates>-74.12050691,4.648472719,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H635</styleUrl>
+        <name>Br. Montevideo</name>
+        <description>Orden: HHH002, Cenefas: 265A06, Tipo: S, MÛdulo: A, DirecciÛn: CL 19 - AK 68D, Localidad: Fontib√≥n, Panel: CL 19 - AK 68D, Audio: Calle 19 Avenida Carrera 68 D, Zona: K</description>
+        <Point>
+          <coordinates>-74.11782174,4.646237418,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H635</styleUrl>
+        <name>INVIMA</name>
+        <description>Orden: HHH003, Cenefas: 407A06, Tipo: S, MÛdulo: A, DirecciÛn: AK 68 D - CL 17, Localidad: Fontib√≥n, Panel: AK 68 D - CL 17, Audio: Avenida Carrera 68 D Calle 17, Zona: K</description>
+        <Point>
+          <coordinates>-74.1195699,4.643320756,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H635</styleUrl>
+        <name>Br. Granjas de Techo</name>
+        <description>Orden: HHH004, Cenefas: 200A06, Tipo: S, MÛdulo: A, DirecciÛn: KR 68D - AC 13, Localidad: Fontib√≥n, Panel: KR 68D - AC 13, Audio: Carrera 68 D Avenida Calle 13, Zona: K</description>
+        <Point>
+          <coordinates>-74.12133136,4.641234419,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H635</styleUrl>
+        <name>Br. Montevideo</name>
+        <description>Orden: HHH005, Cenefas: 021A06, Tipo: S, MÛdulo: A, DirecciÛn: AV. Centenario - KR 68B, Localidad: Fontib√≥n, Panel: AV. Centenario - KR 68B, Audio: Avenida Centenario Carrera 68 Be, Zona: K</description>
+        <Point>
+          <coordinates>-74.12397528,4.644433629,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H635</styleUrl>
+        <name>Br. Franco</name>
+        <description>Orden: HHH006, Cenefas: 110A06, Tipo: S, MÛdulo: A, DirecciÛn: AV. Centenario - KR 69B, Localidad: Fontib√≥n, Panel: AV. Centenario - KR 69B, Audio: Avenida Centenario Carrera 69 Be, Zona: K</description>
+        <Point>
+          <coordinates>-74.12480701,4.647037737,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H635</styleUrl>
+        <name>Br. Interindustrial</name>
+        <description>Orden: HHH007, Cenefas: 055A07, Tipo: M, MÛdulo: A, DirecciÛn: AV. Boyac√° - CL 13, Localidad: Fontib√≥n, Panel: AV. Boyac√° - CL 13, Audio: Avenida Boyac√° Calle 13, Zona: K</description>
+        <Point>
+          <coordinates>-74.12816078,4.648306897,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H635</styleUrl>
+        <name>Br. Nuevo Techo</name>
+        <description>Orden: HHH008, Cenefas: 344C07, Tipo: M, MÛdulo: C, DirecciÛn: AV. Boyac√° - CL 15, Localidad: Kennedy, Panel: AV. Boyac√° - CL 15, Audio: Avenida Boyac√° Calle 15, Zona: F</description>
+        <Point>
+          <coordinates>-74.1303283,4.646683663,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H635</styleUrl>
+        <name>Avenida Alsacia</name>
+        <description>Orden: HHH009, Cenefas: 093A07, Tipo: M, MÛdulo: A, DirecciÛn: AV. Boyac√° - AC 12, Localidad: Kennedy, Panel: AV. Boyac√° - AC 12, Audio: Avenida Boyac√° Avenida Calle 12, Zona: F</description>
+        <Point>
+          <coordinates>-74.13306833,4.64392792,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H635</styleUrl>
+        <name>Cooperativa de Sub-Oficiales</name>
+        <description>Orden: HHH010, Cenefas: 107A07, Tipo: M, MÛdulo: A, DirecciÛn: AV. Boyac√° - CL 10, Localidad: Kennedy, Panel: AV. Boyac√° - CL 10, Audio: Avenida Boyac√° Calle D√©cima, Zona: F</description>
+        <Point>
+          <coordinates>-74.13509251,4.640993947,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H635</styleUrl>
+        <name>Bavaria</name>
+        <description>Orden: HHH011, Cenefas: 068A07, Tipo: M, MÛdulo: A, DirecciÛn: AV. Boyac√° - AC 8, Localidad: Kennedy, Panel: AV. Boyac√° - AC 8, Audio: Avenida Boyac√° Avenida Calle Octava, Zona: F</description>
+        <Point>
+          <coordinates>-74.13679376,4.637662942,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H635</styleUrl>
+        <name>Avenida Am√©ricas</name>
+        <description>Orden: HHH012, Cenefas: 102A07, Tipo: M, MÛdulo: A, DirecciÛn: AV. Boyac√° - CL 6D, Localidad: Kennedy, Panel: AV. Boyac√° - CL 6D, Audio: Avenida Boyac√° Calle Sexta D, Zona: F</description>
+        <Point>
+          <coordinates>-74.13780577,4.63252139,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H635</styleUrl>
+        <name>Br. Las Am√©ricas Occidental</name>
+        <description>Orden: HHH013, Cenefas: 581A08, Tipo: M, MÛdulo: A, DirecciÛn: AV. Boyac√° - CL 3B, Localidad: Kennedy, Panel: AV. Boyac√° - CL 3B, Audio: Avenida Boyac√° Calle Tercera Be, Zona: F</description>
+        <Point>
+          <coordinates>-74.13831855,4.627317837,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H635</styleUrl>
+        <name>Pq. Mundo Aventura</name>
+        <description>Orden: HHH014, Cenefas: 157A08, Tipo: M, MÛdulo: A, DirecciÛn: AV. Boyac√° - CL 2, Localidad: Kennedy, Panel: AV. Boyac√° - CL 2, Audio: Avenida Boyac√° Calle Segunda, Zona: F</description>
+        <Point>
+          <coordinates>-74.13866961,4.623773457,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H635</styleUrl>
+        <name>Avenida 1 de Mayo</name>
+        <description>Orden: HHH015, Cenefas: 015A09, Tipo: M, MÛdulo: A, DirecciÛn: AV. Boyac√° - AV. 1 de Mayo, Localidad: Kennedy, Panel: AV. Boyac√° - AV. 1 de Mayo, Audio: Avenida Boyac√° Avenida Primero de Mayo, Zona: G</description>
+        <Point>
+          <coordinates>-74.14041185,4.616080371,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H635</styleUrl>
+        <name>Parroquia San Cayetano</name>
+        <description>Orden: HHH016, Cenefas: 062A09, Tipo: M, MÛdulo: A, DirecciÛn: AV. Boyac√° - CL 37B Sur, Localidad: Kennedy, Panel: AV. Boyac√° - CL 37B Sur, Audio: Avenida Boyac√° Calle 37 Be Sur, Zona: G</description>
+        <Point>
+          <coordinates>-74.14102965,4.612774698,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H635</styleUrl>
+        <name>IED Alfonso L√≥pez Pumarejo</name>
+        <description>Orden: HHH017, Cenefas: 016A09, Tipo: M, MÛdulo: A, DirecciÛn: AV. Boyac√° - CL 39 Sur, Localidad: Kennedy, Panel: AV. Boyac√° - CL 39 Sur, Audio: Avenida Boyac√° Calle 39 Sur, Zona: G</description>
+        <Point>
+          <coordinates>-74.1420731,4.606924691,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H635</styleUrl>
+        <name>Br. El Progreso I Sector</name>
+        <description>Orden: HHH018, Cenefas: 017A09, Tipo: M, MÛdulo: A, DirecciÛn: AV. Boyac√° - CL 40 Sur, Localidad: Kennedy, Panel: AV. Boyac√° - CL 40 Sur, Audio: Avenida Boyac√° Calle 40 Sur, Zona: G</description>
+        <Point>
+          <coordinates>-74.143999,4.601724,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H635</styleUrl>
+        <name>CAI Las Delicias</name>
+        <description>Orden: HHH019, Cenefas: 028A09, Tipo: M, MÛdulo: A, DirecciÛn: AV. Boyac√° - CL 43C Sur, Localidad: Kennedy, Panel: AV. Boyac√° - CL 43C Sur, Audio: Avenida Boyac√° Calle 43 C Sur, Zona: G</description>
+        <Point>
+          <coordinates>-74.14508744,4.598840884,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H635</styleUrl>
+        <name>Estaci√≥n Madelena</name>
+        <description>Orden: HHH022, Cenefas: 056A09, Tipo: M, MÛdulo: A, DirecciÛn: Auto Sur - KR 66A, Localidad: Ciudad Bol√≠var, Panel: Auto Sur - KR 66A, Audio: Autopista Sur Carrera 66 A, Zona: G</description>
+        <Point>
+          <coordinates>-74.15600109,4.596552131,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H635</styleUrl>
+        <name>Br. Rafael Escamilla</name>
+        <description>Orden: HHH023, Cenefas: 232A10, Tipo: S, MÛdulo: A, DirecciÛn: KR 67 - CL 59 Sur, Localidad: Ciudad Bol√≠var, Panel: KR 67 - CL 59 Sur, Audio: Carrera 67 Calle 59 Sur, Zona: H</description>
+        <Point>
+          <coordinates>-74.15795407,4.593787822,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H635</styleUrl>
+        <name>Br. Madelena</name>
+        <description>Orden: HHH024, Cenefas: 230A10, Tipo: S, MÛdulo: A, DirecciÛn: KR 67 - CL 60A Sur, Localidad: Ciudad Bol√≠var, Panel: KR 67 - CL 60A Sur, Audio: Carrera 67 Calle 60 A Sur, Zona: H</description>
+        <Point>
+          <coordinates>-74.1577824,4.592239357,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H635</styleUrl>
+        <name>Pq. Residencial el Para√≠so</name>
+        <description>Orden: HHH027, Cenefas: 461A10, Tipo: S, MÛdulo: A, DirecciÛn: CL 59 C Sur - TV 70, Localidad: Ciudad Bol√≠var, Panel: CL 59 C Sur - TV 70, Audio: Calle 59 C Sur Transversal 70, Zona: H</description>
+        <Point>
+          <coordinates>-74.156603,4.585629,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H635</styleUrl>
+        <name>Urb. Atlanta</name>
+        <description>Orden: HHH028, Cenefas: 074A10, Tipo: M, MÛdulo: A, DirecciÛn: AV. J. Gait√°n C. - AV. V/cio, Localidad: Ciudad Bol√≠var, Panel: AV. J. Gait√°n C. - AV. V/cio, Audio: Avenida Jorge Gait√°n Cort√©s Avenida Villavicencio, Zona: H</description>
+        <Point>
+          <coordinates>-74.15566195,4.580897318,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>K635</name>
+      <Placemark>
+        <styleUrl>#Style_K635</styleUrl>
+        <name>Br. Arborizadora Alta</name>
+        <description>Orden: KKK001, Cenefas: 172A11, Tipo: S, MÛdulo: A, DirecciÛn: CL 72F Sur - KR 35, Localidad: Ciudad Bol√≠var, Panel: CL 72F Sur - KR 35, Audio: Calle 72 F Sur Carrera 35, Zona: H</description>
+        <Point>
+          <coordinates>-74.16339786,4.564112087,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_K635</styleUrl>
+        <name>CED Gimnasio Sabio Caldas</name>
+        <description>Orden: KKK003, Cenefas: 181B11, Tipo: M, MÛdulo: B, DirecciÛn: KR 42 - CL 73 Sur, Localidad: Ciudad Bol√≠var, Panel: KR 42 - CL 73 Sur, Audio: Carrera 42 Calle 73 Sur, Zona: H</description>
+        <Point>
+          <coordinates>-74.163546,4.568246,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_K635</styleUrl>
+        <name>Br. Sierra Morena DG 69A Sur</name>
+        <description>Orden: KKK016, Cenefas: 065A10, Tipo: S, MÛdulo: A, DirecciÛn: TV 60 - DG 69A Sur, Localidad: Ciudad Bol√≠var, Panel: TV 60 - DG 69A Sur, Audio: Transversal 60 Diagonal 69 A Sur, Zona: H</description>
+        <Point>
+          <coordinates>-74.16560147,4.580502699,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_K635</styleUrl>
+        <name>Br. Sierra Morena</name>
+        <description>Orden: KKK017, Cenefas: 067A10, Tipo: S, MÛdulo: A, DirecciÛn: DG 68 Sur - KR 71F, Localidad: Ciudad Bol√≠var, Panel: DG 68 Sur - KR 71F, Audio: Diagonal 68 Sur Carrera 71 F, Zona: H</description>
+        <Point>
+          <coordinates>-74.16416727,4.583624688,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_K635</styleUrl>
+        <name>Conjunto Residencial Los Robles I</name>
+        <description>Orden: KKK018, Cenefas: 068A10, Tipo: S, MÛdulo: A, DirecciÛn: CL 68F Sur - AV. J. Gait√°n C., Localidad: Ciudad Bol√≠var, Panel: CL 68F Sur - AV. J. Gait√°n C., Audio: Calle 68 F Sur Avenida Jorge Gait√°n Cort√©s, Zona: H</description>
+        <Point>
+          <coordinates>-74.16118604,4.58078772,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_K635</styleUrl>
+        <name>Universidad Distrital</name>
+        <description>Orden: KKK019, Cenefas: 396A10, Tipo: S, MÛdulo: A, DirecciÛn: AV. J. Gait√°n C. - DG 68 B Sur, Localidad: Ciudad Bol√≠var, Panel: AV. J. Gait√°n C. - DG 68 B Sur, Audio: Avenida Jorge Gait√°n Cort√©s Diagonal 68 Be Sur, Zona: H</description>
+        <Point>
+          <coordinates>-74.15861852,4.580167203,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_K635</styleUrl>
+        <name>Universidad Distrital</name>
+        <description>Orden: KKK020, Cenefas: 071C10, Tipo: M, MÛdulo: C, DirecciÛn: AV. V/cio ‚Äì AV. J. Gait√°n C., Localidad: Ciudad Bol√≠var, Panel: AV. V/cio ‚Äì AV. J. Gait√°n C., Audio: Avenida Villavicencio Avenida Jorge Gaitan Cortes, Zona: H</description>
+        <Point>
+          <coordinates>-74.157239,4.579833,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_K635</styleUrl>
+        <name>U. Distrital</name>
+        <description>Orden: KKK021, Cenefas: 090A10, Tipo: M, MÛdulo: A, DirecciÛn: AV. V/cio - KR 49C, Localidad: Ciudad Bol√≠var, Panel: AV. V/cio - KR 49C, Audio: Avenida Villavicencio Carrera 49 C, Zona: H</description>
+        <Point>
+          <coordinates>-74.15651226,4.579046147,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_K635</styleUrl>
+        <name>Br. El Ensue√±o</name>
+        <description>Orden: KKK022, Cenefas: 313A10, Tipo: S, MÛdulo: A, DirecciÛn: AV. V/cio - TV 63, Localidad: Ciudad Bol√≠var, Panel: AV. V/cio - TV 63, Audio: Avenida Villavicencio Transversal 63, Zona: H</description>
+        <Point>
+          <coordinates>-74.15783577,4.581535757,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_K635</styleUrl>
+        <name>Estaci√≥n La Sevillana</name>
+        <description>Orden: AAA018, Cenefas: 044A10, Tipo: S, MÛdulo: A, DirecciÛn: Auto Sur - KR 60, Localidad: Kennedy, Panel: Auto Sur - KR 60, Audio: Autopista Sur Carrera 60, Zona: H</description>
+        <Point>
+          <coordinates>-74.14884441,4.595095096,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_K635</styleUrl>
+        <name>Br. Venecia Occidental</name>
+        <description>Orden: AAA019, Cenefas: 380A10, Tipo: S, MÛdulo: A, DirecciÛn: Auto Sur - AV. Boyac√°, Localidad: Tunjuelito, Panel: Auto Sur - AV. Boyac√°, Audio: Autopista Sur Avenida Boyac√°, Zona: H</description>
+        <Point>
+          <coordinates>-74.14500909,4.595062644,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_K635</styleUrl>
+        <name>Br. Atlanta</name>
+        <description>Orden: HHH052, Cenefas: 391A10, Tipo: S, MÛdulo:  , DirecciÛn: KR 67 - CL 65 Sur, Localidad: Ciudad Bol√≠var, Panel: KR 67 - CL 65 Sur, Audio: Carrera 67 Calle 65 Sur, Zona: H</description>
+        <Point>
+          <coordinates>-74.15700566,4.587999371,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_K635</styleUrl>
+        <name>Br. Madelena</name>
+        <description>Orden: HHH053, Cenefas: 221A10, Tipo: S, MÛdulo:  , DirecciÛn: KR 67 - CL 62B Sur, Localidad: Ciudad Bol√≠var, Panel: KR 67 - CL 62B Sur, Audio: Carrera 67 Calle 62 Be Sur, Zona: H</description>
+        <Point>
+          <coordinates>-74.15734596,4.589957348,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_K635</styleUrl>
+        <name>Br. Jerusal√©n las Brisas</name>
+        <description>Orden: DDD003, Cenefas: 163A11, Tipo: S, MÛdulo: A, DirecciÛn: KR 40 - CL 76 Sur, Localidad: Ciudad Bol√≠var, Panel: KR 40 - CL 76 Sur, Audio: Carrera 40 76, Zona: H</description>
+        <Point>
+          <coordinates>-74.16686222,4.567427714,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_K635</styleUrl>
+        <name>Br. Potos√≠</name>
+        <description>Orden: DDD004, Cenefas: 162A11, Tipo: S, MÛdulo: A, DirecciÛn: KR 42 - CL 78 Sur, Localidad: Ciudad Bol√≠var, Panel: KR 42 - CL 78 Sur, Audio: Carrera 42 Calle 78 Sur, Zona: H</description>
+        <Point>
+          <coordinates>-74.169086,4.568092,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_K635</styleUrl>
+        <name>Br. Potos√≠</name>
+        <description>Orden: DDD005, Cenefas: 166A11, Tipo: S, MÛdulo: A, DirecciÛn: DG 77 Sur - TV 44A, Localidad: Ciudad Bol√≠var, Panel: DG 77 Sur - TV 44A, Audio: Diagonal 77 Sur Transversal 44A, Zona: H</description>
+        <Point>
+          <coordinates>-74.168685,4.570494,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_K635</styleUrl>
+        <name>Br. Potos√≠</name>
+        <description>Orden: DDD006, Cenefas: 641A11, Tipo: S, MÛdulo: A, DirecciÛn: CL 77B Sur - TV 49C Bis, Localidad: Ciudad Bol√≠var, Panel: CL 77B Sur - TV 49C Bis, Audio: Calle 77 Be Sur Transversal 49 C Bis, Zona: H</description>
+        <Point>
+          <coordinates>-74.168727,4.571221,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_K635</styleUrl>
+        <name>Br. Jerusal√©n las Brisas</name>
+        <description>Orden: DDD007, Cenefas: 329A10, Tipo: S, MÛdulo: A, DirecciÛn: TV 50 - CL 75A Sur, Localidad: Ciudad Bol√≠var, Panel: TV 50 - CL 75A Sur, Audio: Transversal 50 Calle 75 A Sur, Zona: H</description>
+        <Point>
+          <coordinates>-74.16694413,4.57301726,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_K635</styleUrl>
+        <name>Br. Sierra Morena III Sector</name>
+        <description>Orden: DDD008, Cenefas: 327A10, Tipo: S, MÛdulo: A, DirecciÛn: CL 75A Sur - TV 59, Localidad: Ciudad Bol√≠var, Panel: CL 75A Sur - TV 59, Audio: Calle 75 A Sur Transversal 59, Zona: H</description>
+        <Point>
+          <coordinates>-74.16725643,4.574615125,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_K635</styleUrl>
+        <name>Br. Sierra Morena III Sector</name>
+        <description>Orden: DDD009, Cenefas: 110A10, Tipo: S, MÛdulo: A, DirecciÛn: DG 75 Sur - TV 73B, Localidad: Ciudad Bol√≠var, Panel: DG 75 Sur - TV 73B, Audio: Diagonal 75 Sur Transversal 73 Be, Zona: H</description>
+        <Point>
+          <coordinates>-74.16903162,4.577235885,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_K635</styleUrl>
+        <name>Br. Sierra Morena Tv 73H</name>
+        <description>Orden: DDD010, Cenefas: 111A10, Tipo: S, MÛdulo: A, DirecciÛn: DG 73C Sur - TV 73H, Localidad: Ciudad Bol√≠var, Panel: DG 73C Sur - TV 73H, Audio: Diagonal 73 C Sur Transversal 73 H, Zona: H</description>
+        <Point>
+          <coordinates>-74.16994837,4.579077772,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_K635</styleUrl>
+        <name>Br. Sierra Morena III Sector</name>
+        <description>Orden: DDD011, Cenefas: 301A10, Tipo: S, MÛdulo: A, DirecciÛn: DG 73C Sur - TV 73B, Localidad: Ciudad Bol√≠var, Panel: DG 73C Sur - TV 73B, Audio: Diagonal 73 C Sur Transversal 73 Be, Zona: H</description>
+        <Point>
+          <coordinates>-74.16776094,4.578151715,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_K635</styleUrl>
+        <name>CED. Ciudad Bol√≠var</name>
+        <description>Orden: DDD012, Cenefas: 041A10, Tipo: S, MÛdulo: A, DirecciÛn: TV 60 - DG 70 Sur, Localidad: Ciudad Bol√≠var, Panel: TV 60 - DG 70 Sur, Audio: Transversal 60 Diagonal 70 Sur, Zona: H</description>
+        <Point>
+          <coordinates>-74.16652907,4.578230695,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_K635</styleUrl>
+        <name>Conjunto Rivera de San Juan</name>
+        <description>Orden: KKK020, Cenefas: 462A10, Tipo: S, MÛdulo: A, DirecciÛn: CL 59 C Sur - TV 65, Localidad: Ciudad Bol√≠var, Panel: CL 59 C Sur - TV 65, Audio: Calle 59 C Sur Transversal 65, Zona: H</description>
+        <Point>
+          <coordinates>-74.156348,4.585388,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_K635</styleUrl>
+        <name>Br. Madelena</name>
+        <description>Orden: KKK023, Cenefas: 231A10, Tipo: S, MÛdulo: A, DirecciÛn: KR 67 - CL 60A-18 Sur, Localidad: Ciudad Bol√≠var, Panel: KR 67 - CL 60A-18 Sur, Audio: Carrera 67 Calle 60 A Sur, Zona: H</description>
+        <Point>
+          <coordinates>-74.15760286,4.592181392,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_K635</styleUrl>
+        <name>Br. Madelena</name>
+        <description>Orden: KKK024, Cenefas: 233A10, Tipo: S, MÛdulo: A, DirecciÛn: KR 67 - CL 57V Sur, Localidad: Ciudad Bol√≠var, Panel: KR 67 - CL 57V Sur, Audio: Carrera 67 Calle 57 Ve Sur, Zona: H</description>
+        <Point>
+          <coordinates>-74.15786728,4.594913267,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_K635</styleUrl>
+        <name>Estaci√≥n Madelena</name>
+        <description>Orden: KKK025, Cenefas: 043A10, Tipo: S, MÛdulo: A, DirecciÛn: Auto Sur - KR 66A, Localidad: Ciudad Bol√≠var, Panel: Auto Sur - KR 66A, Audio: Autopista Sur Carrera 66 A, Zona: H</description>
+        <Point>
+          <coordinates>-74.15664831,4.596106026,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_K635</styleUrl>
+        <name>Br. Madelena</name>
+        <description>Orden: KKK026, Cenefas: 379A10, Tipo: S, MÛdulo: A, DirecciÛn: Auto Sur - KR 64 Bis, Localidad: Ciudad Bol√≠var, Panel: Auto Sur - KR 64 Bis, Audio: Autopista Sur Carrera 64 Bis, Zona: H</description>
+        <Point>
+          <coordinates>-74.15430558,4.596198847,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_K635</styleUrl>
+        <name>Parroquia San Andr√©s</name>
+        <description>Orden: KKK029, Cenefas: 092B09, Tipo: M, MÛdulo: B, DirecciÛn: AV. Boyac√° - CL 44B Sur, Localidad: Kennedy, Panel: AV. Boyac√° - CL 44B Sur, Audio: Avenida Boyac√° Calle 44 Be Sur, Zona: G</description>
+        <Point>
+          <coordinates>-74.144894,4.597991,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_K635</styleUrl>
+        <name>Calle 40 Sur</name>
+        <description>Orden: KKK030, Cenefas: 112B09, Tipo: M, MÛdulo: B, DirecciÛn: AV. Boyac√° - CL 40 Sur, Localidad: Kennedy, Panel: AV. Boyac√° - CL 40 Sur, Audio: Avenida Boyac√° Calle 40 Sur, Zona: G</description>
+        <Point>
+          <coordinates>-74.14359005,4.601658203,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_K635</styleUrl>
+        <name>Br. Nueva York</name>
+        <description>Orden: KKK031, Cenefas: 091B09, Tipo: M, MÛdulo: B, DirecciÛn: AV. Boyac√° - CL 39B Sur, Localidad: Kennedy, Panel: AV. Boyac√° - CL 39B Sur, Audio: Avenida Boyac√° Calle 39 Be Sur, Zona: G</description>
+        <Point>
+          <coordinates>-74.14221029,4.605360154,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_K635</styleUrl>
+        <name>IED OEA Sede B</name>
+        <description>Orden: KKK032, Cenefas: 111B09, Tipo: M, MÛdulo: B, DirecciÛn: AV. Boyac√° - CL 38 Sur, Localidad: Kennedy, Panel: AV. Boyac√° - CL 38 Sur, Audio: Avenida Boyac√° Calle 38 Sur, Zona: G</description>
+        <Point>
+          <coordinates>-74.141099,4.609115238,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_K635</styleUrl>
+        <name>Br. Carvajal</name>
+        <description>Orden: KKK033, Cenefas: 089B09, Tipo: M, MÛdulo: B, DirecciÛn: AV. Boyac√° - CL 37 Sur, Localidad: Kennedy, Panel: AV. Boyac√° - CL 37 Sur, Audio: Avenida Boyac√° Calle 37 Sur, Zona: G</description>
+        <Point>
+          <coordinates>-74.14054628,4.612988914,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_K635</styleUrl>
+        <name>Br. Hipotecho Occidental</name>
+        <description>Orden: KKK034, Cenefas: 014A09, Tipo: M, MÛdulo: A, DirecciÛn: AV. Boyac√° - CL 4 Sur, Localidad: Kennedy, Panel: AV. Boyac√° - CL 4 Sur, Audio: Avenida Boyac√° Calle Cuarta Sur, Zona: F</description>
+        <Point>
+          <coordinates>-74.13898841,4.619681562,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_K635</styleUrl>
+        <name>Pq. Mundo Aventura</name>
+        <description>Orden: KKK035, Cenefas: 205B08, Tipo: M, MÛdulo: B, DirecciÛn: AV. Boyac√° - CL 2A, Localidad: Kennedy, Panel: AV. Boyac√° - CL 2A, Audio: Avenida Boyac√° Calle Segunda A, Zona: F</description>
+        <Point>
+          <coordinates>-74.13816311,4.624517215,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_K635</styleUrl>
+        <name>Br. Triunfo de las Am√©ricas</name>
+        <description>Orden: KKK036, Cenefas: 580B08, Tipo: M, MÛdulo: B, DirecciÛn: AV. Boyac√° - CL 5A, Localidad: Kennedy, Panel: AV. Boyac√° - CL 5A, Audio: Avenida Boyac√° Calle Quinta A, Zona: F</description>
+        <Point>
+          <coordinates>-74.13776613,4.62826285,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_K635</styleUrl>
+        <name>Avenida Am√©ricas</name>
+        <description>Orden: KKK037, Cenefas: 103B07, Tipo: M, MÛdulo: B, DirecciÛn: AV. Boyac√° - CL 6D, Localidad: Kennedy, Panel: AV. Boyac√° - CL 6D, Audio: Avenida Boyac√° Calle Sexta D, Zona: F</description>
+        <Point>
+          <coordinates>-74.13737103,4.632479158,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_K635</styleUrl>
+        <name>Cooperativa de Sub-Oficiales</name>
+        <description>Orden: KKK038, Cenefas: 104B07, Tipo: M, MÛdulo: B, DirecciÛn: AV. Boyac√° - AC 8, Localidad: Kennedy, Panel: AV. Boyac√° - AC 8, Audio: Avenida Boyac√° Avenida Calle Octava, Zona: F</description>
+        <Point>
+          <coordinates>-74.13681958,4.636131614,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_K635</styleUrl>
+        <name>Cooperativa de Sub-Oficiales</name>
+        <description>Orden: KKK039, Cenefas: 105B07, Tipo: M, MÛdulo: B, DirecciÛn: AV. Boyac√° - CL 9, Localidad: Kennedy, Panel: AV. Boyac√° - CL 9, Audio: Avenida Boyac√° Calle Novena, Zona: F</description>
+        <Point>
+          <coordinates>-74.1359241,4.638551247,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_K635</styleUrl>
+        <name>Avenida Alsacia</name>
+        <description>Orden: KKK040, Cenefas: 106B07, Tipo: M, MÛdulo: B, DirecciÛn: AV. Boyac√° - CL 11A, Localidad: Kennedy, Panel: AV. Boyac√° - CL 11A, Audio: Avenida Boyac√° Calle 11 A, Zona: F</description>
+        <Point>
+          <coordinates>-74.132468,4.643519,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_K635</styleUrl>
+        <name>Br. Villa Alsacia</name>
+        <description>Orden: KKK041, Cenefas: 331C07, Tipo: M, MÛdulo: C, DirecciÛn: AV. Boyac√° - CL 12B, Localidad: Kennedy, Panel: AV. Boyac√° - CL 12B, Audio: Avenida Boyac√° Calle 12 B, Zona: F</description>
+        <Point>
+          <coordinates>-74.130785,4.645328,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_K635</styleUrl>
+        <name>Br. Franco</name>
+        <description>Orden: KKK042, Cenefas: 194B06, Tipo: M, MÛdulo: B, DirecciÛn: AV. Boyac√° - CL 18A, Localidad: Fontib√≥n, Panel: AV. Boyac√° - CL 18A, Audio: Avenida Boyac√° Calle 18A, Zona: K</description>
+        <Point>
+          <coordinates>-74.12507284,4.650386222,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

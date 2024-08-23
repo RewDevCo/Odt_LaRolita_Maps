@@ -1,0 +1,989 @@
+<?xml version="1.0" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Style id="Style_H613">
+      <IconStyle>
+        <color>ff9999ff</color>
+        <scale>1.0</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_L613">
+      <IconStyle>
+        <color>ffff9999</color>
+        <scale>1.0</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Folder>
+      <name>H613</name>
+      <Placemark>
+        <styleUrl>#Style_H613</styleUrl>
+        <name>U. Distrital</name>
+        <description>Orden: KKK021, Cenefas: 090A10, Tipo: M, Módulo: A, Dirección: AV. V/cio - KR 49C, Localidad: Ciudad Bolívar, Panel: AV. V/cio - KR 49C, Audio: Avenida Villavicencio Carrera 49 C, Zona: H</description>
+        <Point>
+          <coordinates>-74.15651226,4.579046147,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H613</styleUrl>
+        <name>Br. El Ensueño</name>
+        <description>Orden: KKK022, Cenefas: 313A10, Tipo: S, Módulo: A, Dirección: AV. V/cio - TV 63, Localidad: Ciudad Bolívar, Panel: AV. V/cio - TV 63, Audio: Avenida Villavicencio Transversal 63, Zona: H</description>
+        <Point>
+          <coordinates>-74.15783577,4.581535757,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H613</styleUrl>
+        <name>Ciudadela El Ensueño</name>
+        <description>Orden: KKK023, Cenefas: 417A10, Tipo: S, Módulo: A, Dirección: AV. V/cio - TV 69, Localidad: Ciudad Bolívar, Panel: AV. V/cio - TV 69, Audio: Avenida Villavicencio Transversal 69, Zona: H</description>
+        <Point>
+          <coordinates>-74.158905,4.583744,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H613</styleUrl>
+        <name>Br. El Ensueño</name>
+        <description>Orden: KKK024, Cenefas: 029A10, Tipo: S, Módulo: A, Dirección: AV. V/cio - TV 70D, Localidad: Ciudad Bolívar, Panel: AV. V/cio - TV 70D, Audio: Avenida Villavicencio Transversal 70 D, Zona: H</description>
+        <Point>
+          <coordinates>-74.15984943,4.585619425,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H613</styleUrl>
+        <name>Br. Madelena</name>
+        <description>Orden: KKK025, Cenefas: 027A10, Tipo: S, Módulo: A, Dirección: AV. V/cio - CL 63 Sur, Localidad: Ciudad Bolívar, Panel: AV. V/cio - CL 63 Sur, Audio: Avenida Villavicencio Calle 63 Sur, Zona: H</description>
+        <Point>
+          <coordinates>-74.16103304,4.588433031,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H613</styleUrl>
+        <name>Br. Barlovento</name>
+        <description>Orden: AAA008, Cenefas: 203A10, Tipo: S, Módulo: A, Dirección: KR 72 - CL 62D Sur, Localidad: Ciudad Bolívar, Panel: KR 72 - CL 62D Sur, Audio: Carrera 72 Calle 62 D Sur, Zona: H</description>
+        <Point>
+          <coordinates>-74.16726196,4.589272216,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H613</styleUrl>
+        <name>Br. Ismael Perdomo</name>
+        <description>Orden: HHH040, Cenefas: 213A10, Tipo: M, Módulo: A, Dirección: CL 63 Sur - KR 70G, Localidad: Ciudad Bolívar, Panel: CL 63 Sur - KR 70G, Audio: Calle 63 Sur Carrera 70 G, Zona: H</description>
+        <Point>
+          <coordinates>-74.162698,4.589183,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H613</styleUrl>
+        <name>Br. Ismael Perdomo</name>
+        <description>Orden: HHH041, Cenefas: 383A10, Tipo: S, Módulo: A, Dirección: CL 63 Sur - KR 71F, Localidad: Ciudad Bolívar, Panel: CL 63 Sur - KR 71F, Audio: Calle 63 Sur Carrera 71 F, Zona: H</description>
+        <Point>
+          <coordinates>-74.16580097,4.588223605,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H613</styleUrl>
+        <name>Br. Los tres Reyes II Sector</name>
+        <description>Orden: HHH063, Cenefas: 293A10, Tipo: S, Módulo:  , Dirección: CL 57Z Sur - KR 75D, Localidad: Ciudad Bolívar, Panel: CL 57Z Sur - KR 75D, Audio: Calle 57 Z Sur Carrera 75 D, Zona: H</description>
+        <Point>
+          <coordinates>-74.17657179,4.59472952,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H613</styleUrl>
+        <name>Br. San Isidro</name>
+        <description>Orden: HHH064, Cenefas: 274A10, Tipo: S, Módulo:  , Dirección: KR 76 - CL 58 Sur, Localidad: Ciudad Bolívar, Panel: KR 76 - CL 58 Sur, Audio: Carrera 76 Calle 58 Sur, Zona: H</description>
+        <Point>
+          <coordinates>-74.1786065,4.593999941,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H613</styleUrl>
+        <name>Br. Primavera II</name>
+        <description>Orden: HHH065, Cenefas: 370A10, Tipo: S, Módulo:  , Dirección: CL 59A Sur - KR 76A, Localidad: Ciudad Bolívar, Panel: CL 59A Sur - KR 76A, Audio: Calle 59 A Sur Carrera 76 A, Zona: H</description>
+        <Point>
+          <coordinates>-74.179999,4.592546,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H613</styleUrl>
+        <name>Urb. San Vicente</name>
+        <description>Orden: HHH001, Cenefas: 225A13, Tipo: S, Módulo: A, Dirección: AV. Circunvalar - CL 33 Sur, Localidad: San Cristóbal, Panel: AV. Circunvalar - CL 33 Sur, Audio: Avenida Circunvalar Calle 33 Sur, Zona: L</description>
+        <Point>
+          <coordinates>-74.084528,4.554951,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H613</styleUrl>
+        <name>Br. San Vicente</name>
+        <description>Orden: HHH002, Cenefas: 182A13, Tipo: S, Módulo: A, Dirección: AV. Circunvalar - CL 36A Sur, Localidad: San Cristóbal, Panel: AV. Circunvalar - CL 36A Sur, Audio: Avenida Circunvalar Calle 36 A Sur, Zona: L</description>
+        <Point>
+          <coordinates>-74.08569017,4.551913811,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H613</styleUrl>
+        <name>La Y</name>
+        <description>Orden: HHH003, Cenefas: 649A13, Tipo: S, Módulo: A, Dirección: KR 10 Este - CL 39 Sur, Localidad: San Cristóbal, Panel: KR 10 Este - CL 39 Sur, Audio: Carrera 10 Este Calle 39 Sur, Zona: H</description>
+        <Point>
+          <coordinates>-74.086597,4.550322,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H613</styleUrl>
+        <name>Br. Altos del Poblado</name>
+        <description>Orden: HHH004, Cenefas: 179A13, Tipo: S, Módulo: A, Dirección: KR 11 E - CL 40 Sur, Localidad: San Cristóbal, Panel: KR 11 E - CL 40 Sur, Audio: Carrera 11 Este Calle 40 Sur, Zona: L</description>
+        <Point>
+          <coordinates>-74.08633338,4.548229727,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H613</styleUrl>
+        <name>Br. La Gloria Oriental</name>
+        <description>Orden: HHH005, Cenefas: 177A13, Tipo: S, Módulo: A, Dirección: KR 11 E - CL 42B Sur, Localidad: San Cristóbal, Panel: KR 11 E - CL 42B Sur, Audio: Carrera 11 Este Calle 42 Be Sur, Zona: L</description>
+        <Point>
+          <coordinates>-74.08758528,4.545537428,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H613</styleUrl>
+        <name>Br. La Gloria</name>
+        <description>Orden: HHH006, Cenefas: 086A13, Tipo: S, Módulo: A, Dirección: KR 9 E - CL 44 Sur, Localidad: San Cristóbal, Panel: KR 9 E - CL 44 Sur, Audio: Carrera Novena Este Calle 44 Sur, Zona: L</description>
+        <Point>
+          <coordinates>-74.08951095,4.544529059,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H613</styleUrl>
+        <name>Br. La Gloria Oriental</name>
+        <description>Orden: HHH007, Cenefas: 089A13, Tipo: S, Módulo: A, Dirección: DG 43A Sur - KR 6A E, Localidad: San Cristóbal, Panel: DG 43A Sur - KR 6A E, Audio: Diagonal 43 A Sur Carrera Sexta A Este, Zona: L</description>
+        <Point>
+          <coordinates>-74.09184975,4.546430315,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H613</styleUrl>
+        <name>Cl 41 A Bis Sur</name>
+        <description>Orden: HHH008, Cenefas: 018A13, Tipo: S, Módulo: A, Dirección: AK 4 E - CL 41 A BIS Sur, Localidad: San Cristóbal, Panel: AK 4 E - CL 41 A BIS Sur, Audio: Avenida Carrera Cuarta Este Calle 41 A Bis Sur, Zona: L</description>
+        <Point>
+          <coordinates>-74.09255528,4.549266457,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H613</styleUrl>
+        <name>Br. La Victoria</name>
+        <description>Orden: HHH009, Cenefas: 519A13, Tipo: S, Módulo: A, Dirección: CL 40 Sur - KR 3C Este, Localidad: San Cristóbal, Panel: CL 40 Sur - KR 3C Este, Audio: Calle 40 Sur Carrera Tercera C Este, Zona: L</description>
+        <Point>
+          <coordinates>-74.09301785,4.551050274,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H613</styleUrl>
+        <name>Br. La Victoria</name>
+        <description>Orden: HHH010, Cenefas: 171A13, Tipo: S, Módulo: A, Dirección: CL 40 Sur - KR 3 E, Localidad: San Cristóbal, Panel: CL 40 Sur - KR 3 E, Audio: Calle 40 Sur Carrera Tercera Este, Zona: L</description>
+        <Point>
+          <coordinates>-74.0945472,4.55157881,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H613</styleUrl>
+        <name>Br. Las Guacamayas</name>
+        <description>Orden: HHH011, Cenefas: 440A13, Tipo: S, Módulo: A, Dirección: DG 39 Sur - KR 1D Este, Localidad: San Cristóbal, Panel: DG 39 Sur - KR 1D Este, Audio: Diagonal 39 Sur Carrera Primera D Este, Zona: L</description>
+        <Point>
+          <coordinates>-74.09637003,4.551938623,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H613</styleUrl>
+        <name>Br. San Martín de Loba</name>
+        <description>Orden: HHH012, Cenefas: 160A13, Tipo: S, Módulo: A, Dirección: KR 1A - CL 41 Sur, Localidad: San Cristóbal, Panel: KR 1A - CL 41 Sur, Audio: Carrera Primera A Calle 41 Sur, Zona: L</description>
+        <Point>
+          <coordinates>-74.098515,4.551544826,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H613</styleUrl>
+        <name>Quebrada La Chiguaza</name>
+        <description>Orden: HHH013, Cenefas: 158A13, Tipo: S, Módulo: A, Dirección: KR 1A - CL 43A Sur, Localidad: San Cristóbal, Panel: KR 1A - CL 43A Sur, Audio: Carrera Primera A Calle 43 A Sur, Zona: L</description>
+        <Point>
+          <coordinates>-74.10058906,4.54923147,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H613</styleUrl>
+        <name>Br. Península</name>
+        <description>Orden: HHH014, Cenefas: 485A13, Tipo: S, Módulo: A, Dirección: TV 1Bis - CL 47 Sur, Localidad: San Cristóbal, Panel: TV 1Bis - CL 47 Sur, Audio: Transversal Primera Bis Calle 47 Sur, Zona: L</description>
+        <Point>
+          <coordinates>-74.10156312,4.548340583,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H613</styleUrl>
+        <name>Parque Entrenubes</name>
+        <description>Orden: HHH015, Cenefas: 013A12, Tipo: S, Módulo: A, Dirección: KR 1 - CL 48 P Sur, Localidad: Rafael Uribe, Panel: KR 1 - CL 48 P Sur, Audio: Carrera Primera Calle 48 P Sur, Zona: H</description>
+        <Point>
+          <coordinates>-74.10347965,4.546553254,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H613</styleUrl>
+        <name>Br. Los Molinos II Sector</name>
+        <description>Orden: HHH016, Cenefas: 017A12, Tipo: S, Módulo: A, Dirección: CL 48Q Bis Sur - KR 2B, Localidad: Rafael Uribe, Panel: CL 48Q Bis Sur - KR 2B, Audio: Avenida Calle 48 Q Sur Carrera Segunda Be, Zona: H</description>
+        <Point>
+          <coordinates>-74.105629,4.548831256,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H613</styleUrl>
+        <name>Br. Los Molinos II Sector</name>
+        <description>Orden: HHH017, Cenefas: 018A12, Tipo: S, Módulo: A, Dirección: CL 48Q Bis Sur - KR 4, Localidad: Rafael Uribe, Panel: CL 48Q Bis Sur - KR 4, Audio: Avenida Calle 48 Q Sur Carrera Tercera, Zona: H</description>
+        <Point>
+          <coordinates>-74.107902,4.550674012,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H613</styleUrl>
+        <name>IED Colombia Viva</name>
+        <description>Orden: HHH018, Cenefas: 293A12, Tipo: S, Módulo: A, Dirección: KR 5 - CL 48P Bis C Sur, Localidad: Rafael Uribe, Panel: KR 5 - CL 48P Bis C Sur, Audio: Carrera Quinta Calle 48 P Sur, Zona: H</description>
+        <Point>
+          <coordinates>-74.10802418,4.551790517,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H613</styleUrl>
+        <name>Br. Los Molinos I Sector</name>
+        <description>Orden: HHH019, Cenefas: 279A12, Tipo: S, Módulo: A, Dirección: CL 48P Sur - KR 5D Bis, Localidad: Rafael Uribe, Panel: CL 48P Sur - KR 5D Bis, Audio: Calle 48 P Sur Carrera Quinta D, Zona: H</description>
+        <Point>
+          <coordinates>-74.11095816,4.554299134,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H613</styleUrl>
+        <name>Br. Marruecos</name>
+        <description>Orden: HHH020, Cenefas: 272A12, Tipo: S, Módulo: A, Dirección: TV 5N Bis - KR 48W, Localidad: Rafael Uribe, Panel: TV 5N Bis - KR 48W, Audio: Carrera Quinta L Calle 48 Q Sur, Zona: H</description>
+        <Point>
+          <coordinates>-74.11431709,4.555017036,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H613</styleUrl>
+        <name>IED Marruecos y Molinos</name>
+        <description>Orden: HHH021, Cenefas: 269A12, Tipo: S, Módulo: A, Dirección: DG 48Y Sur - TV 5R Bis, Localidad: Rafael Uribe, Panel: DG 48Y Sur - TV 5R Bis, Audio: Diagonal 48 Y Sur Transversal Quinta R, Zona: H</description>
+        <Point>
+          <coordinates>-74.11630887,4.555184209,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H613</styleUrl>
+        <name>Parque Marruecos</name>
+        <description>Orden: HHH022, Cenefas: 560A12, Tipo: S, Módulo: A, Dirección: KR 5U - CL 49C Sur, Localidad: Rafael Uribe, Panel: KR 5U - CL 49C Sur, Audio: Carrera 5 U Calle 49 C Sur, Zona: H</description>
+        <Point>
+          <coordinates>-74.117054,4.555064,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H613</styleUrl>
+        <name>Br. Molinos Del Sur</name>
+        <description>Orden: HHH023, Cenefas: 130A12, Tipo: S, Módulo: A, Dirección: DG 49G BIS Sur - KR 5Z, Localidad: Rafael Uribe, Panel: DG 49G BIS Sur - KR 5Z, Audio: Diagonal 49 G Bis Sur Carrera Quinta Z, Zona: H</description>
+        <Point>
+          <coordinates>-74.119741,4.555973,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H613</styleUrl>
+        <name>Br. El Pensil</name>
+        <description>Orden: HHH024, Cenefas: 133A12, Tipo: S, Módulo: A, Dirección: CL 50 Sur - KR 7, Localidad: Rafael Uribe, Panel: CL 50 Sur - KR 7, Audio: Calle 50 Sur Carrera Séptima, Zona: H</description>
+        <Point>
+          <coordinates>-74.12068043,4.557222282,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H613</styleUrl>
+        <name>Pq. Público Avenida Caracas</name>
+        <description>Orden: HHH025, Cenefas: 134A12, Tipo: M, Módulo: A, Dirección: KR 10 - CL 49H Sur, Localidad: Rafael Uribe, Panel: KR 10 - CL 49H Sur, Audio: Carrera Décima Calle 49 H Sur, Zona: H</description>
+        <Point>
+          <coordinates>-74.12152083,4.558920375,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H613</styleUrl>
+        <name>Br. Abraham Lincoln</name>
+        <description>Orden: HHH026, Cenefas: 364A11, Tipo: S, Módulo: A, Dirección: KR 10 - CL 52 Sur, Localidad: Tunjuelito, Panel: KR 10 - CL 52 Sur, Audio: Carrera Décima Calle 52 Sur, Zona: H</description>
+        <Point>
+          <coordinates>-74.12325495,4.558151989,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H613</styleUrl>
+        <name>CED Rufino José Cuervo</name>
+        <description>Orden: HHH027, Cenefas: 362A11, Tipo: S, Módulo: A, Dirección: CL 52 Sur - KR 11A, Localidad: Tunjuelito, Panel: CL 52 Sur - KR 11A, Audio: Calle 52 Sur Carrera 11 A, Zona: H</description>
+        <Point>
+          <coordinates>-74.12415703,4.559370226,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H613</styleUrl>
+        <name>Hospital Tunjuelito II Nivel</name>
+        <description>Orden: HHH028, Cenefas: 365A11, Tipo: S, Módulo: A, Dirección: CL 52 Sur - KR 14, Localidad: Tunjuelito, Panel: CL 52 Sur - KR 14, Audio: Calle 52 Sur Carrera 14, Zona: H</description>
+        <Point>
+          <coordinates>-74.1258625,4.562780155,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H613</styleUrl>
+        <name>Br. Tunjuelito</name>
+        <description>Orden: HHH029, Cenefas: 360A11, Tipo: S, Módulo: A, Dirección: CL 52 Sur - KR 16, Localidad: Tunjuelito, Panel: CL 52 Sur - KR 16, Audio: Calle 52 Sur Carrera 16, Zona: H</description>
+        <Point>
+          <coordinates>-74.12714941,4.565405183,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H613</styleUrl>
+        <name>Br. San Carlos</name>
+        <description>Orden: HHH030, Cenefas: 042A11, Tipo: S, Módulo: A, Dirección: KR 16B - CL 54 Sur, Localidad: Tunjuelito, Panel: KR 16B - CL 54 Sur, Audio: Carrera 16 Be Calle 54 Sur, Zona: H</description>
+        <Point>
+          <coordinates>-74.12872911,4.564284717,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H613</styleUrl>
+        <name>Br. San Carlos</name>
+        <description>Orden: HHH031, Cenefas: 356A11, Tipo: S, Módulo: A, Dirección: KR 16B - CL 55A Sur, Localidad: Tunjuelito, Panel: KR 16B - CL 55A Sur, Audio: Carrera 16 Be Calle 55 A Sur, Zona: H</description>
+        <Point>
+          <coordinates>-74.13025914,4.562459403,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H613</styleUrl>
+        <name>San Benito</name>
+        <description>Orden: HHH032, Cenefas: 354A11, Tipo: S, Módulo: A, Dirección: KR 16B - CL 58 Sur, Localidad: Tunjuelito, Panel: KR 16B - CL 58 Sur, Audio: Carrera 16 Be Calle 58 Sur, Zona: H</description>
+        <Point>
+          <coordinates>-74.13168769,4.560877992,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H613</styleUrl>
+        <name>Br. Meissen</name>
+        <description>Orden: HHH033, Cenefas: 337A11, Tipo: S, Módulo: A, Dirección: AC 60G Sur - KR 17, Localidad: Ciudad Bolívar, Panel: AC 60G Sur - KR 17, Audio: Avenida Calle 60 G Sur Carrera 17, Zona: H</description>
+        <Point>
+          <coordinates>-74.13641941,4.558669201,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H613</styleUrl>
+        <name>Br. Meissen</name>
+        <description>Orden: HHH034, Cenefas: 342A11, Tipo: S, Módulo: A, Dirección: AC 60G Sur - KR 18C, Localidad: Ciudad Bolívar, Panel: AC 60G Sur - KR 18C, Audio: Avenida Calle 60 G Sur Carrera 18 C, Zona: H</description>
+        <Point>
+          <coordinates>-74.13805004,4.559717453,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H613</styleUrl>
+        <name>Br. San Benito</name>
+        <description>Orden: HHH035, Cenefas: 003B11, Tipo: M, Módulo: B, Dirección: AV. Boyacá - CL 60 Sur, Localidad: Ciudad Bolívar, Panel: AV. Boyacá - CL 60 Sur, Audio: Avenida Boyacá Calle 60 Sur, Zona: H</description>
+        <Point>
+          <coordinates>-74.13914247,4.562312948,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H613</styleUrl>
+        <name>Br. Lucero Alto</name>
+        <description>Orden: HHH036, Cenefas: 086A11, Tipo: S, Módulo: A, Dirección: DG 62 Sur - KR 19A, Localidad: Ciudad Bolívar, Panel: DG 62 Sur - KR 19A, Audio: Diagonal 62 Sur Carrera 19 A, Zona: H</description>
+        <Point>
+          <coordinates>-74.140523,4.562071,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H613</styleUrl>
+        <name>Br.  Las Acacias</name>
+        <description>Orden: HHH037, Cenefas: 088A11, Tipo: S, Módulo: A, Dirección: DG 62 Sur - KR 20A, Localidad: Ciudad Bolívar, Panel: DG 62 Sur - KR 20A, Audio: Diagonal 62 Sur Carrera 20 A, Zona: H</description>
+        <Point>
+          <coordinates>-74.14240009,4.563853104,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H613</styleUrl>
+        <name>Br.  Las Acacias</name>
+        <description>Orden: HHH038, Cenefas: 090A11, Tipo: S, Módulo: A, Dirección: DG 62 Sur - KR 22A, Localidad: Ciudad Bolívar, Panel: DG 62 Sur - KR 22A, Audio: Diagonal 62 Sur Carrera 22 A, Zona: H</description>
+        <Point>
+          <coordinates>-74.14469035,4.567156367,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H613</styleUrl>
+        <name>Br. El Chircal Sur</name>
+        <description>Orden: HHH039, Cenefas: 062A11, Tipo: M, Módulo: A, Dirección: AV. V/cio - KR 22G, Localidad: Ciudad Bolívar, Panel: AV. V/cio - KR 22G, Audio: Avenida Villavicencio Carrera 22 G, Zona: H</description>
+        <Point>
+          <coordinates>-74.14617766,4.568928646,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H613</styleUrl>
+        <name>CADE Ciudad Bolívar</name>
+        <description>Orden: HHH040, Cenefas: 118A11, Tipo: M, Módulo: A, Dirección: AV. V/cio - TV 32, Localidad: Ciudad Bolívar, Panel: AV. V/cio - TV 32, Audio: Avenida Villavicencio Transversal 32, Zona: H</description>
+        <Point>
+          <coordinates>-74.14879034,4.570724346,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H613</styleUrl>
+        <name>Br. Arborizadora Baja</name>
+        <description>Orden: HHH041, Cenefas: 499A11, Tipo: M, Módulo: A, Dirección: AV. V/cio - KR 37C, Localidad: Ciudad Bolívar, Panel: AV. V/cio - KR 37C, Audio: Avenida Villavicencio Carrera 37 C, Zona: H</description>
+        <Point>
+          <coordinates>-74.15057936,4.57194223,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H613</styleUrl>
+        <name>Br. Arborizadora Baja</name>
+        <description>Orden: HHH042, Cenefas: 031A11, Tipo: M, Módulo: A, Dirección: AV. V/cio - KR 44, Localidad: Ciudad Bolívar, Panel: AV. V/cio - KR 44, Audio: Avenida Villavicencio Carrera 44, Zona: H</description>
+        <Point>
+          <coordinates>-74.1536224,4.574295924,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H613</styleUrl>
+        <name>Br. Verona</name>
+        <description>Orden: HHH043, Cenefas: 030A10, Tipo: M, Módulo: A, Dirección: AV. V/cio - KR 48, Localidad: Ciudad Bolívar, Panel: AV. V/cio - KR 48, Audio: Avenida Villavicencio Carrera 48, Zona: H</description>
+        <Point>
+          <coordinates>-74.15538424,4.576920547,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H613</styleUrl>
+        <name>Br. Galicia</name>
+        <description>Orden: HHH052, Cenefas: 202A10, Tipo: S, Módulo: A, Dirección: CL 60 A Sur - KR 72, Localidad: Ciudad Bolívar, Panel: CL 60 A Sur - KR 72, Audio: Calle 60 A Sur Carrera 73, Zona: H</description>
+        <Point>
+          <coordinates>-74.16797122,4.591430062,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H613</styleUrl>
+        <name>Br. Galicia</name>
+        <description>Orden: HHH053, Cenefas: 384A10, Tipo: S, Módulo: A, Dirección: CL 60 A Sur - KR 73, Localidad: Ciudad Bolívar, Panel: CL 60 A Sur - KR 73, Audio: Calle A 60 Sur Carrera 73, Zona: H</description>
+        <Point>
+          <coordinates>-74.1704204,4.591644755,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H613</styleUrl>
+        <name>Br. La Estancia</name>
+        <description>Orden: HHH054, Cenefas: 310A10, Tipo: S, Módulo: A, Dirección: KR 74 - CL 59B Sur, Localidad: Ciudad Bolívar, Panel: KR 74 - CL 59B Sur, Audio: Carrera 74 Calle 59 Be Sur, Zona: H</description>
+        <Point>
+          <coordinates>-74.17259447,4.592355778,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_H613</styleUrl>
+        <name>Br. La Estancia</name>
+        <description>Orden: HHH055, Cenefas: 372A10, Tipo: S, Módulo: A, Dirección: DG 57 Sur - KR 74D, Localidad: Ciudad Bolívar, Panel: DG 57 Sur - KR 74D, Audio: Diagonal 57 Sur Carrera 74 D, Zona: H</description>
+        <Point>
+          <coordinates>-74.17408908,4.59446856,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>L613</name>
+      <Placemark>
+        <styleUrl>#Style_L613</styleUrl>
+        <name>Br. El Ensueño</name>
+        <description>Orden: HHH031, Cenefas: 028A10, Tipo: S, Módulo: A, Dirección: AV. V/cio - CL 68 Sur, Localidad: Ciudad Bolívar, Panel: AV. V/cio - CL 68 Sur, Audio: Avenida Villavicencio Calle 68 Sur, Zona: H</description>
+        <Point>
+          <coordinates>-74.16101621,4.587373627,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L613</styleUrl>
+        <name>Br. El Ensueño</name>
+        <description>Orden: HHH032, Cenefas: 314A10, Tipo: S, Módulo: A, Dirección: AV. V/cio - TV 70C, Localidad: Ciudad Bolívar, Panel: AV. V/cio - TV 70C, Audio: Avenida Villavicencio Transversal 70 C, Zona: H</description>
+        <Point>
+          <coordinates>-74.15970312,4.584609669,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L613</styleUrl>
+        <name>Salon Comunal 3 Reyes</name>
+        <description>Orden: HHH049, Cenefas: 460A10, Tipo: S, Módulo: A, Dirección: CL 61C Sur - KR 77B, Localidad: Ciudad Bolívar, Panel: CL 61C Sur - KR 77B, Audio: Calle 61 C Sur Carrera 77 Be, Zona: H</description>
+        <Point>
+          <coordinates>-74.181246,4.590085,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L613</styleUrl>
+        <name>Br. San Isidro</name>
+        <description>Orden: HHH050, Cenefas: 455A10, Tipo: S, Módulo: A, Dirección: CL 60A Sur - KR 77B, Localidad: Ciudad Bolívar, Panel: CL 60A Sur - KR 77B, Audio: Calle 60 A Sur Carrera 77 Be, Zona: H</description>
+        <Point>
+          <coordinates>-74.181146,4.591298,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L613</styleUrl>
+        <name>Br. Quiba</name>
+        <description>Orden: HHH051, Cenefas: 173A10, Tipo: S, Módulo: A, Dirección: KR 76A - CL 59A Sur, Localidad: Ciudad Bolívar, Panel: KR 76A - CL 59A Sur, Audio: Carrera 76 A Calle 59 A Sur, Zona: H</description>
+        <Point>
+          <coordinates>-74.180132,4.592438,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L613</styleUrl>
+        <name>Br. Galicia</name>
+        <description>Orden: AAA007, Cenefas: 199A10, Tipo: S, Módulo:  , Dirección: CL 62D Sur - KR 73G, Localidad: Ciudad Bolívar, Panel: CL 62D Sur - KR 73G, Audio: Calle 62 D Sur Carrera 73 G, Zona: H</description>
+        <Point>
+          <coordinates>-74.17134779,4.589629191,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L613</styleUrl>
+        <name>Br. Barlovento</name>
+        <description>Orden: AAA008, Cenefas: 107A10, Tipo: S, Módulo:  , Dirección: CL 62D Sur - KR 72, Localidad: Ciudad Bolívar, Panel: CL 62D Sur - KR 72, Audio: Calle 62 D Sur Carrera 72, Zona: H</description>
+        <Point>
+          <coordinates>-74.16772302,4.589637874,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L613</styleUrl>
+        <name>Br. Barlovento</name>
+        <description>Orden: AAA009, Cenefas: 204A10, Tipo: S, Módulo:  , Dirección: KR 72 - CL 62D Sur, Localidad: Ciudad Bolívar, Panel: KR 72 - CL 62D Sur, Audio: Carrera 72 Calle 62 D Sur, Zona: H</description>
+        <Point>
+          <coordinates>-74.16738563,4.589235511,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L613</styleUrl>
+        <name>Br. Perdomo</name>
+        <description>Orden: AAA010, Cenefas: 382A10, Tipo: S, Módulo:  , Dirección: CL 63A Sur - KR 71F, Localidad: Ciudad Bolívar, Panel: CL 63A Sur - KR 71F, Audio: Calle 63 A Sur Carrera 71 F, Zona: H</description>
+        <Point>
+          <coordinates>-74.16629098,4.587397559,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L613</styleUrl>
+        <name>Br. Olarte</name>
+        <description>Orden: CBO001, Cenefas: 062A10, Tipo: S, Módulo: A, Dirección: Auto Sur - KR 73, Localidad: Ciudad Bolívar, Panel: Auto Sur - KR 73, Audio: Autopista Sur Carrera 73, Zona: H</description>
+        <Point>
+          <coordinates>-74.16834516,4.595591711,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L613</styleUrl>
+        <name>Br. Barlovento</name>
+        <description>Orden: CBO002, Cenefas: 276A10, Tipo: S, Módulo: A, Dirección: KR 72 - Auto Sur, Localidad: Ciudad Bolívar, Panel: KR 72 - Auto Sur, Audio: Carrera 72 Autopista Sur, Zona: H</description>
+        <Point>
+          <coordinates>-74.1673798,4.593928662,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L613</styleUrl>
+        <name>Br. Barlovento</name>
+        <description>Orden: CBO003, Cenefas: 208A10, Tipo: S, Módulo: A, Dirección: KR 72 - CL 60A Sur, Localidad: Ciudad Bolívar, Panel: KR 72 - CL 60A Sur, Audio: Carrera 72 Calle 60 A Sur, Zona: H</description>
+        <Point>
+          <coordinates>-74.16739952,4.59148659,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L613</styleUrl>
+        <name>Br. La Estancia</name>
+        <description>Orden: LLL004, Cenefas: 312A10, Tipo: S, Módulo: A, Dirección: DG 57Z Sur - KR 74G, Localidad: Ciudad Bolívar, Panel: DG 57Z Sur - KR 74G, Audio: Diagonal 57 Z Sur Carrera 74 G, Zona: H</description>
+        <Point>
+          <coordinates>-74.17467579,4.594499112,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L613</styleUrl>
+        <name>Br. La Estancia</name>
+        <description>Orden: LLL005, Cenefas: 311A10, Tipo: S, Módulo: A, Dirección: TV 73I - CL 57Y Sur, Localidad: Ciudad Bolívar, Panel: TV 73I - CL 57Y Sur, Audio: Transversal 73 I Calle 57 Y Sur, Zona: H</description>
+        <Point>
+          <coordinates>-74.17199147,4.594775599,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L613</styleUrl>
+        <name>Br. El Ensueño</name>
+        <description>Orden: LLL015, Cenefas: 315A10, Tipo: M, Módulo: A, Dirección: AV. V/cio - TV 63, Localidad: Ciudad Bolívar, Panel: AV. V/cio - TV 63, Audio: Avenida Villavicencio Transversal 63, Zona: H</description>
+        <Point>
+          <coordinates>-74.158643,4.582394,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L613</styleUrl>
+        <name>U. Distrital</name>
+        <description>Orden: LLL016, Cenefas: 071A10, Tipo: M, Módulo: A, Dirección: AV. V/cio - KR 49C, Localidad: Ciudad Bolívar, Panel: AV. V/cio - KR 49C, Audio: Avenida Villavicencio Carrera 49 C, Zona: H</description>
+        <Point>
+          <coordinates>-74.1567283,4.578829757,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L613</styleUrl>
+        <name>Br. Verona</name>
+        <description>Orden: LLL017, Cenefas: 089A10, Tipo: M, Módulo: A, Dirección: AV. V/cio - KR 48, Localidad: Ciudad Bolívar, Panel: AV. V/cio - KR 48, Audio: Avenida Villavicencio Carrera 48, Zona: H</description>
+        <Point>
+          <coordinates>-74.15567327,4.576820566,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L613</styleUrl>
+        <name>Br. Candelaria La Nueva</name>
+        <description>Orden: LLL018, Cenefas: 453A11, Tipo: M, Módulo: A, Dirección: AV. V/cio - KR 45A, Localidad: Ciudad Bolívar, Panel: AV. V/cio - KR 45A, Audio: Avenida Villavicencio Carrera 45 A, Zona: H</description>
+        <Point>
+          <coordinates>-74.15385129,4.574118942,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L613</styleUrl>
+        <name>CAI Candelaria</name>
+        <description>Orden: LLL019, Cenefas: 030A11, Tipo: M, Módulo: A, Dirección: AV. V/cio - KR 43B, Localidad: Ciudad Bolívar, Panel: AV. V/cio - KR 43B, Audio: Avenida Villavicencio Carrera 43 Be, Zona: H</description>
+        <Point>
+          <coordinates>-74.15227967,4.572736291,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L613</styleUrl>
+        <name>Br. El Satélite</name>
+        <description>Orden: LLL020, Cenefas: 032A11, Tipo: M, Módulo: A, Dirección: AV. V/cio - KR 30, Localidad: Ciudad Bolívar, Panel: AV. V/cio - KR 30, Audio: Avenida Villavicencio Carrera 30, Zona: H</description>
+        <Point>
+          <coordinates>-74.14892415,4.570472721,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L613</styleUrl>
+        <name>Br. El Satélite</name>
+        <description>Orden: LLL021, Cenefas: 061A11, Tipo: M, Módulo: A, Dirección: AV. V/cio - KR 22B, Localidad: Ciudad Bolívar, Panel: AV. V/cio - KR 22B, Audio: Avenida Villavicencio Carrera 22 Be, Zona: H</description>
+        <Point>
+          <coordinates>-74.14624153,4.568636608,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L613</styleUrl>
+        <name>Br.  San Francisco I Sector</name>
+        <description>Orden: LLL022, Cenefas: 089A11, Tipo: S, Módulo: A, Dirección: DG 62 Sur - KR 22, Localidad: Ciudad Bolívar, Panel: DG 62 Sur - KR 22, Audio: Diagonal 62 Sur Carrera 22, Zona: H</description>
+        <Point>
+          <coordinates>-74.14458368,4.566930645,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L613</styleUrl>
+        <name>Br.  San Francisco I Sector</name>
+        <description>Orden: LLL023, Cenefas: 087A11, Tipo: S, Módulo: A, Dirección: DG 62 Sur - KR 20, Localidad: Ciudad Bolívar, Panel: DG 62 Sur - KR 20, Audio: Diagonal 62 Sur Carrera 20, Zona: H</description>
+        <Point>
+          <coordinates>-74.14245786,4.563776607,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L613</styleUrl>
+        <name>Br. Lucero Alto</name>
+        <description>Orden: LLL024, Cenefas: 085A11, Tipo: S, Módulo: A, Dirección: DG 62 Sur - KR 19, Localidad: Ciudad Bolívar, Panel: DG 62 Sur - KR 19, Audio: Diagonal 62 Sur Carrera 19, Zona: H</description>
+        <Point>
+          <coordinates>-74.140356,4.561873,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L613</styleUrl>
+        <name>Br. Lucero Alto</name>
+        <description>Orden: LLL025, Cenefas: 004B11, Tipo: M, Módulo: B, Dirección: AV. Boyacá - KR 18Q, Localidad: Ciudad Bolívar, Panel: AV. Boyacá - KR 18Q, Audio: Avenida Boyacá Carrera 18 Q, Zona: H</description>
+        <Point>
+          <coordinates>-74.13922616,4.558913997,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L613</styleUrl>
+        <name>Br. Lucero del Sur</name>
+        <description>Orden: LLL026, Cenefas: 007B11, Tipo: M, Módulo: B, Dirección: AV. Boyacá - CL 64ABis Sur, Localidad: Ciudad Bolívar, Panel: AV. Boyacá - CL 64ABis Sur, Audio: Avenida Boyacá Calle 64 A Bis Sur, Zona: H</description>
+        <Point>
+          <coordinates>-74.13808052,4.555548893,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L613</styleUrl>
+        <name>Br. México</name>
+        <description>Orden: LLL027, Cenefas: 006B11, Tipo: M, Módulo: B, Dirección: AV. Boyacá - CL 64 Sur, Localidad: Ciudad Bolívar, Panel: AV. Boyacá - CL 64 Sur, Audio: Avenida Boyacá Calle 64 Sur, Zona: H</description>
+        <Point>
+          <coordinates>-74.13729447,4.554715853,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L613</styleUrl>
+        <name>Hsp. de Meissen</name>
+        <description>Orden: LLL028, Cenefas: 005B11, Tipo: M, Módulo: B, Dirección: AV. Boyacá - KR 18 Bis, Localidad: Ciudad Bolívar, Panel: AV. Boyacá - KR 18 Bis, Audio: Avenida Boyacá Carrera 18 Bis, Zona: H</description>
+        <Point>
+          <coordinates>-74.13867237,4.558683534,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L613</styleUrl>
+        <name>Br. Meissen</name>
+        <description>Orden: LLL029, Cenefas: 341A11, Tipo: S, Módulo: A, Dirección: AC 60G Sur - 18C-04 Sur, Localidad: Ciudad Bolívar, Panel: AC 60G Sur - 18C-04 Sur, Audio: Calle 60 G Sur Carrera 18 C, Zona: H</description>
+        <Point>
+          <coordinates>-74.13865652,4.560252393,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L613</styleUrl>
+        <name>Br. Meissen</name>
+        <description>Orden: LLL030, Cenefas: 339A11, Tipo: S, Módulo: A, Dirección: AC 60G Sur - KR 17 BIS A, Localidad: Ciudad Bolívar, Panel: AC 60G Sur - KR 17 BIS A, Audio: Avenida Calle 60 G Sur Carrera 17 Bis A, Zona: H</description>
+        <Point>
+          <coordinates>-74.13669499,4.558595573,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L613</styleUrl>
+        <name>Br. Tunjuelito</name>
+        <description>Orden: LLL031, Cenefas: 353A11, Tipo: S, Módulo: A, Dirección: AK 16B - CL 59-34 Sur, Localidad: Tunjuelito, Panel: AK 16B - CL 59-34 Sur, Audio: Avenida Carrera 16 Be Calle 59 Sur, Zona: H</description>
+        <Point>
+          <coordinates>-74.13158296,4.560808264,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L613</styleUrl>
+        <name>Br. Tunjuelito</name>
+        <description>Orden: LLL032, Cenefas: 357A11, Tipo: S, Módulo: A, Dirección: KR 16 - 56-40 Sur, Localidad: Tunjuelito, Panel: KR 16 - 56-40 Sur, Audio: Carrera 16 Calle 56 Sur, Zona: H</description>
+        <Point>
+          <coordinates>-74.12973058,4.561828543,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L613</styleUrl>
+        <name>Br. Tunjuelito</name>
+        <description>Orden: LLL033, Cenefas: 358A11, Tipo: S, Módulo: A, Dirección: CL 54 Sur - KR 15, Localidad: Tunjuelito, Panel: CL 54 Sur - KR 15, Audio: Calle 54 Sur Carrera 15, Zona: H</description>
+        <Point>
+          <coordinates>-74.128018,4.563121,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L613</styleUrl>
+        <name>Br. Tunjuelito</name>
+        <description>Orden: LLL034, Cenefas: 352A11, Tipo: S, Módulo: A, Dirección: CL 54 Sur - KR 12A, Localidad: Tunjuelito, Panel: CL 54 Sur - KR 12A, Audio: Calle 54 Sur Carrera 12 A, Zona: H</description>
+        <Point>
+          <coordinates>-74.12662455,4.560195386,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L613</styleUrl>
+        <name>IED Rufino José Cuervo</name>
+        <description>Orden: LLL035, Cenefas: 361A11, Tipo: S, Módulo: A, Dirección: CL 53A Sur - KR 11A, Localidad: Tunjuelito, Panel: CL 53A Sur - KR 11A, Audio: Calle 53 A Sur Carrera 11 A, Zona: H</description>
+        <Point>
+          <coordinates>-74.12537263,4.558768923,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L613</styleUrl>
+        <name>Br. Abraham Lincoln</name>
+        <description>Orden: LLL036, Cenefas: 363A11, Tipo: S, Módulo: A, Dirección: CL 53 Sur - KR 9, Localidad: Tunjuelito, Panel: CL 53 Sur - KR 9, Audio: Calle 53 Sur Carrera Novena, Zona: H</description>
+        <Point>
+          <coordinates>-74.12368691,4.557113411,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L613</styleUrl>
+        <name>C.C. Caracas</name>
+        <description>Orden: LLL037, Cenefas: 131A12, Tipo: M, Módulo: A, Dirección: KR 9 - CL 50A Sur, Localidad: Rafael Uribe, Panel: KR 9 - CL 50A Sur, Audio: Carrera Novena Calle 50 A Sur, Zona: H</description>
+        <Point>
+          <coordinates>-74.1214172,4.557516305,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L613</styleUrl>
+        <name>Br. Los Molinos del Sur</name>
+        <description>Orden: LLL038, Cenefas: 127A12, Tipo: S, Módulo: A, Dirección: CL 50A Sur - KR 5Z, Localidad: Rafael Uribe, Panel: CL 50A Sur - KR 5Z, Audio: Calle 50 A Sur Carrera Quinta Z, Zona: H</description>
+        <Point>
+          <coordinates>-74.12040087,4.555336691,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L613</styleUrl>
+        <name>La Picota</name>
+        <description>Orden: LLL039, Cenefas: 128A12, Tipo: M, Módulo: A, Dirección: DG 50 Sur - KR 5P, Localidad: Rafael Uribe, Panel: DG 50 Sur - KR 5P, Audio: Diagonal 50 Sur Carrera Quinta P, Zona: H</description>
+        <Point>
+          <coordinates>-74.11899901,4.552748486,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L613</styleUrl>
+        <name>Br. San Agustín</name>
+        <description>Orden: LLL040, Cenefas: 270A12, Tipo: S, Módulo: A, Dirección: KR 5I - CL 49A Sur, Localidad: Rafael Uribe, Panel: KR 5I - CL 49A Sur, Audio: Carrera Quinta L Calle 49 Sur, Zona: H</description>
+        <Point>
+          <coordinates>-74.11498345,4.553204332,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L613</styleUrl>
+        <name>Urbanización Marruecos II Sector</name>
+        <description>Orden: LLL041, Cenefas: 277A12, Tipo: S, Módulo: A, Dirección: KR 5I - CL 48R Sur, Localidad: Rafael Uribe, Panel: KR 5I - CL 48R Sur, Audio: Carrera Quinta L 48 Q Sur, Zona: H</description>
+        <Point>
+          <coordinates>-74.11305476,4.554169942,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L613</styleUrl>
+        <name>Salón Comunal Bosques de Bari</name>
+        <description>Orden: LLL042, Cenefas: 278A12, Tipo: S, Módulo: A, Dirección: CL 48P Sur - TV 5D, Localidad: Rafael Uribe, Panel: CL 48P Sur - TV 5D, Audio: Calle 48 P Sur Transversal Quinta D, Zona: H</description>
+        <Point>
+          <coordinates>-74.11078615,4.554038633,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L613</styleUrl>
+        <name>IED Colombia Viva</name>
+        <description>Orden: LLL043, Cenefas: 292A12, Tipo: S, Módulo: A, Dirección: KR 5 - CL 48P Bis B Sur, Localidad: Rafael Uribe, Panel: KR 5 - CL 48P Bis B Sur, Audio: Carrera Quinta Calle 48 P Sur, Zona: H</description>
+        <Point>
+          <coordinates>-74.10815602,4.551682649,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L613</styleUrl>
+        <name>Br. Los Molinos II Sector</name>
+        <description>Orden: LLL044, Cenefas: 015A12, Tipo: S, Módulo: A, Dirección: CL 48Q Bis Sur - KR 3, Localidad: Rafael Uribe, Panel: CL 48Q Bis Sur - KR 3, Audio: Avenida Calle 48 Q Sur Carrera Tercera, Zona: H</description>
+        <Point>
+          <coordinates>-74.10782982,4.55041648,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L613</styleUrl>
+        <name>Instituto Los Ángeles</name>
+        <description>Orden: LLL045, Cenefas: 014A12, Tipo: M, Módulo: A, Dirección: CL 48Q Bis Sur - KR 2B, Localidad: Rafael Uribe, Panel: CL 48Q Bis Sur - KR 2B, Audio: Avenida Calle 48 Q Sur Carrera Segunda A, Zona: H</description>
+        <Point>
+          <coordinates>-74.10582077,4.548740025,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L613</styleUrl>
+        <name>Parque Entrenubes</name>
+        <description>Orden: LLL046, Cenefas: 016A12, Tipo: S, Módulo: A, Dirección: KR 1 - CL 48 P Sur, Localidad: Rafael Uribe, Panel: KR 1 - CL 48 P Sur, Audio: Carrera Primera Calle 48 P Sur, Zona: H</description>
+        <Point>
+          <coordinates>-74.10296565,4.546467271,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L613</styleUrl>
+        <name>Br. La Península</name>
+        <description>Orden: LLL047, Cenefas: 410A13, Tipo: S, Módulo: A, Dirección: TV 1 Bis - CL 47 Sur, Localidad: San Cristóbal, Panel: TV 1 Bis - CL 47 Sur, Audio: Transversal Primera Bis Calle 47 Sur, Zona: L</description>
+        <Point>
+          <coordinates>-74.10129032,4.548374623,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L613</styleUrl>
+        <name>Quebrada La Chiguaza</name>
+        <description>Orden: LLL048, Cenefas: 157A13, Tipo: S, Módulo: A, Dirección: KR 1A - CL 43A- 24 Sur, Localidad: San Cristóbal, Panel: KR 1A - CL 43A- 24 Sur, Audio: Carrera Primera A Calle 43 A Sur, Zona: L</description>
+        <Point>
+          <coordinates>-74.10060921,4.549066447,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L613</styleUrl>
+        <name>Br. San Martín</name>
+        <description>Orden: LLL049, Cenefas: 159A13, Tipo: S, Módulo: A, Dirección: KR 1A - CL 41 Sur, Localidad: San Cristóbal, Panel: KR 1A - CL 41 Sur, Audio: Carrera Primera A Calle 41 Sur, Zona: L</description>
+        <Point>
+          <coordinates>-74.09858202,4.551298952,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L613</styleUrl>
+        <name>Br. San Martín de Loba</name>
+        <description>Orden: LLL050, Cenefas: 169A13, Tipo: S, Módulo: A, Dirección: CL 41 Sur - KR 2 E, Localidad: San Cristóbal, Panel: CL 41 Sur - KR 2 E, Audio: Calle 41 Sur Carrera Segunda Este, Zona: L</description>
+        <Point>
+          <coordinates>-74.09553901,4.550817719,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L613</styleUrl>
+        <name>Cl 41 Sur</name>
+        <description>Orden: LLL051, Cenefas: 019A13, Tipo: S, Módulo: A, Dirección: KR 4 E - CL 41 Sur, Localidad: San Cristóbal, Panel: KR 4 E - CL 41 Sur, Audio: Carrera Cuarta Este Calle 41 Sur, Zona: L</description>
+        <Point>
+          <coordinates>-74.09262329,4.549535283,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L613</styleUrl>
+        <name>Br. La Gloria</name>
+        <description>Orden: LLL052, Cenefas: 088A13, Tipo: S, Módulo: A, Dirección: DG 43A Sur - KR 6A E, Localidad: San Cristóbal, Panel: DG 43A Sur - KR 6A E, Audio: Diagonal 43 A Sur Carrera Sexta A Este, Zona: L</description>
+        <Point>
+          <coordinates>-74.09171684,4.546156366,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L613</styleUrl>
+        <name>Br. La Gloria</name>
+        <description>Orden: LLL053, Cenefas: 087A13, Tipo: S, Módulo: A, Dirección: KR 9 Este - CL 43B Sur, Localidad: San Cristóbal, Panel: KR 9 Este - CL 43B Sur, Audio: Carrera Novena Este Calle 43 Be Sur, Zona: L</description>
+        <Point>
+          <coordinates>-74.08949021,4.544712504,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L613</styleUrl>
+        <name>Br. Altamira</name>
+        <description>Orden: LLL054, Cenefas: 178A13, Tipo: S, Módulo: A, Dirección: KR 11 E - CL 42B Sur, Localidad: San Cristóbal, Panel: KR 11 E - CL 42B Sur, Audio: Carrera 11 Este Calle 42 Be Sur, Zona: L</description>
+        <Point>
+          <coordinates>-74.08746243,4.54556569,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L613</styleUrl>
+        <name>Br. San José Sur Oriental</name>
+        <description>Orden: LLL055, Cenefas: 180A13, Tipo: S, Módulo: A, Dirección: KR 11 E - CL 39 Sur, Localidad: San Cristóbal, Panel: KR 11 E - CL 39 Sur, Audio: Carrera 11 Este Calle 39 Sur, Zona: L</description>
+        <Point>
+          <coordinates>-74.08617239,4.54834539,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L613</styleUrl>
+        <name>Pq. Nueva España</name>
+        <description>Orden: LLL056, Cenefas: 050A13, Tipo: S, Módulo: A, Dirección: AV. Circunvalar - CL 37 Sur, Localidad: San Cristóbal, Panel: AV. Circunvalar - CL 37 Sur, Audio: Avenida Circunvalar Calle 37 Sur, Zona: L</description>
+        <Point>
+          <coordinates>-74.08631342,4.550992736,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L613</styleUrl>
+        <name>Br. El Futuro</name>
+        <description>Orden: LLL057, Cenefas: 181A13, Tipo: S, Módulo: A, Dirección: AV. Circunvalar - CL 36A Sur, Localidad: San Cristóbal, Panel: AV. Circunvalar - CL 36A Sur, Audio: Avenida Circunvalar Calle 36 A Sur, Zona: L</description>
+        <Point>
+          <coordinates>-74.08579009,4.551710828,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L613</styleUrl>
+        <name>Br. Macarena de los Alpes</name>
+        <description>Orden: LLL058, Cenefas: 226A13, Tipo: S, Módulo: A, Dirección: AV. Circunvalar - CL 32F Sur, Localidad: San Cristóbal, Panel: AV. Circunvalar - CL 32F Sur, Audio: Avenida Circunvalar Calle 32 F Sur, Zona: L</description>
+        <Point>
+          <coordinates>-74.084788,4.553103,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L613</styleUrl>
+        <name>Br. San Vicente</name>
+        <description>Orden: LLL059, Cenefas: 201A13, Tipo: S, Módulo: A, Dirección: DG 33A Sur - KR 10 E, Localidad: San Cristóbal, Panel: DG 33A Sur - KR 10 E, Audio: Diagonal 33 A Sur Carrera 10 Este, Zona: L</description>
+        <Point>
+          <coordinates>-74.08641164,4.55395366,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L613</styleUrl>
+        <name>Jardín Social San Vicente</name>
+        <description>Orden: LLL060, Cenefas: 645A13, Tipo: S, Módulo: A, Dirección: CL 36 H Sur - KR 7 Este, Localidad: San Cristóbal, Panel: CL 36 H Sur - KR 7 Este, Audio: Calle 36 H Sur Carrera 7 Este, Zona: L</description>
+        <Point>
+          <coordinates>-74.087998,4.554708,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L613</styleUrl>
+        <name>Horacio Orjuela</name>
+        <description>Orden: LLL061, Cenefas: 453A13, Tipo: S, Módulo: A, Dirección: CL 32B Sur - TV 8 Este, Localidad: San Cristóbal, Panel: CL 32B Sur - TV 8 Este, Audio: Calle 32 Be Sur Transversal Octava Este, Zona: L</description>
+        <Point>
+          <coordinates>-74.0863323,4.556910649,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#Style_L613</styleUrl>
+        <name>Sidel-Terrazas de Oriente</name>
+        <description>Orden: LLL062, Cenefas: 454A13, Tipo: S, Módulo: A, Dirección: KR 9B Este - CL 32B Sur, Localidad: San Cristóbal, Panel: KR 9B Este - CL 32B Sur, Audio: Carrera Novena Be Este Calle 32 Be Sur, Zona: L</description>
+        <Point>
+          <coordinates>-74.0847661,4.557492156,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
